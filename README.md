@@ -1,6 +1,9 @@
 # Starry
 星空夏 Starry - Maple Leaf Intl School Wuhan - Graduation Prom 2018
 
+![avatar](https://raw.githubusercontent.com/MeoncStudio/Starry/master/816552282608535932.jpg)
+![avatar](https://raw.githubusercontent.com/MeoncStudio/Starry/master/211469506310972563.jpg)
+
 ## Website Contributors
 
 1. Cloudy Young - Main Entrance, Teacher Entrance
