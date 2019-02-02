@@ -1,8 +1,0 @@
-<?php
-	$file=scandir('GradPhoto');
-	//echo JSON_encode($file);
-	for($t = 0; $t < count($file); $t ++){
-		echo strtoupper($file[$t]);
-	}
-	//rename("images","pictures");
-?>
