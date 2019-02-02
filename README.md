@@ -1,8 +1,8 @@
 # Starry
 星空夏 Starry - Maple Leaf Intl School Wuhan - Graduation Prom 2018
 
-![avatar](https://raw.githubusercontent.com/MeoncStudio/Starry/master/816552282608535932.jpg)
-![avatar](https://raw.githubusercontent.com/MeoncStudio/Starry/master/211469506310972563.jpg)
+<img src="https://raw.githubusercontent.com/MeoncStudio/Starry/master/816552282608535932.jpg" width="50%" alt="" />
+<img src="https://raw.githubusercontent.com/MeoncStudio/Starry/master/211469506310972563.jpg" width="50%" alt="" />
 
 ## Website Contributors
 
