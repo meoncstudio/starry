@@ -1,0 +1,32 @@
+<html>
+<body>
+<span id="o"></span>
+<script src="https://gz.bcebos.com/v1/myexams/js/jquery-3.2.1.min.js"></script>
+<script>
+interv = setInterval(function(){
+	$.ajax({url:"requestRandomVoteSame.php",
+		data: {},
+		dataType: 'JSON',
+		timeout: 3000,
+		type: 'POST',
+		success: function(res){
+			
+			
+		},
+		error: function (xhr,status,error){
+			
+		},
+		complete(XHR, TS){
+			
+		}
+	});
+
+},10000);
+
+$('#o').after('Succeed');
+
+</script>
+
+
+</body>
+</html>

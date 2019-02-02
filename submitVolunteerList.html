@@ -1,0 +1,30 @@
+<html>
+	<body>
+		<textarea id="content" style="min-height: 300px;"></textarea>
+		<button id="go">GO</button>
+<script src="https://gz.bcebos.com/v1/myexams/js/jquery-3.2.1.min.js"></script>
+
+		<script>
+			$('#go').click(function(){
+			
+			var content = $('#content').val();
+			$.ajax({url:"requestVolunteerList.php",
+				data: {content: content},
+				dataType: 'HTML',
+				timeout: 3000,
+				type: 'POST',
+				success: function(res){
+					alert('OK');
+				},
+				error: function (xhr,status,error){
+					
+				},
+				complete(XHR, TS){
+					isProcessing = false;
+				}
+			});
+			
+			});
+		</script>
+	</body>
+</html>

@@ -1,0 +1,3826 @@
+{
+	"code": 0,
+	"message": "Valid Powerschool account.",
+	"account": {
+		"information": {
+			"currentGPA": "72.2000",
+			"currentMealBalance": "0.0",
+			"currentTerm": "T1",
+			"dcid": "14044",
+			"dob": "2000-07-03T16:00:00.000Z",
+			"ethnicity": null,
+			"firstName": "Yunfan",
+			"gender": "M",
+			"gradeLevel": "12",
+			"guardianAccessDisabled": "false",
+			"id": "14294",
+			"lastName": "Yang",
+			"middleName": "Cloudy",
+			"photoDate": "2017-10-25T16:15:55.202Z",
+			"startingMealBalance": "0.0"
+		},
+		"sections": [{
+			"assignments": [{
+				"category": "Calc 12 Quiz",
+				"description": null,
+				"name": "Derivatives Quiz",
+				"percent": "77.78",
+				"score": "77.78",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2018-04-17T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Calc12 Midterm",
+				"description": null,
+				"name": "Midterm",
+				"percent": "72.97",
+				"score": "72.97",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2018-04-17T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Calc12 Project",
+				"description": null,
+				"name": "Project",
+				"percent": "96.88",
+				"score": "15.5",
+				"letterGrade": "A",
+				"pointsPossible": "16.0",
+				"date": "2018-04-18T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Calc12 Test",
+				"description": null,
+				"name": "Derivatives Test",
+				"percent": "93.26",
+				"score": "93.26",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2018-04-17T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Calc 12 Quiz",
+				"description": null,
+				"name": "Limits Quiz 1",
+				"percent": "81.25",
+				"score": "81.25",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2018-03-17T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Calc 12 Quiz",
+				"description": null,
+				"name": "Limits Quiz 2",
+				"percent": "70",
+				"score": "70",
+				"letterGrade": "C+",
+				"pointsPossible": "100.0",
+				"date": "2018-03-17T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Calc12 Test",
+				"description": null,
+				"name": "Limits Test",
+				"percent": "81.25",
+				"score": "81.25",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2018-03-17T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Calc12 English Program",
+				"description": null,
+				"name": "English",
+				"percent": "60",
+				"score": "3",
+				"letterGrade": "C",
+				"pointsPossible": "5.0",
+				"date": "2018-03-17T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}],
+			"expression": "A(1-2)",
+			"courseCode": "MA1202C0",
+			"enrollments": {
+				"endDate": "2018-06-29T16:00:00.000Z",
+				"enrollStatus": "0",
+				"id": "773857",
+				"startDate": "2018-01-21T16:00:00.000Z"
+			},
+			"finalGrades": {
+				"T3": {
+					"percent": "84.0",
+					"letter": "B",
+					"comment": "I would like to see more effort in your participation in class.\nA good understanding of topics covered this term.",
+					"eval": "P"
+				}
+			},
+			"name": "Calculus 12",
+			"roomName": "A421",
+			"teacher": {
+				"firstName": "Tristan",
+				"lastName": "Poon",
+				"email": "tristanpoon@mapleleafedu.com",
+				"schoolPhone": "8193 8780"
+			}
+		}, {
+			"assignments": [{
+				"category": "PRE 12 UNIT TEST",
+				"description": "Instead of 29",
+				"name": "CH 1 TEST",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-09-15T16:00:00.000Z",
+				"weight": "0.14",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "PRE 12 ENGLISH",
+				"description": "Instead of 3",
+				"name": "English Language",
+				"percent": "60",
+				"score": "60",
+				"letterGrade": "C",
+				"pointsPossible": "100.0",
+				"date": "2017-09-26T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "PRE 12 QUIZZES",
+				"description": "Instead of 13",
+				"name": "CH 2 QUIZ",
+				"percent": "57.69",
+				"score": "57.69",
+				"letterGrade": "C-",
+				"pointsPossible": "100.0",
+				"date": "2017-09-21T16:00:00.000Z",
+				"weight": "0.13",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "PRE 12 UNIT TEST",
+				"description": "Instead of 37",
+				"name": "CH 5 TEST 2",
+				"percent": "78.38",
+				"score": "78.38",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-11-27T16:00:00.000Z",
+				"weight": "0.1",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "PRE 12 QUIZZES",
+				"description": "Instead of 10",
+				"name": "CH 5 QUIZ 2",
+				"percent": "90",
+				"score": "90",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-11-17T16:00:00.000Z",
+				"weight": "0.1",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "PRE 12 FINAL EXAM ",
+				"description": "Instead of 58",
+				"name": "FINAL EXAM",
+				"percent": "72.41",
+				"score": "72.41",
+				"letterGrade": "C+",
+				"pointsPossible": "100.0",
+				"date": "2018-01-17T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "PRE 12 QUIZZES",
+				"description": "Instead of 11",
+				"name": "CH 1 Quiz",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-09-06T16:00:00.000Z",
+				"weight": "0.14",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "PRE 12 UNIT TEST",
+				"description": "Instead of 27",
+				"name": "CH 4 TEST",
+				"percent": "87.04",
+				"score": "87.04",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2018-01-09T16:00:00.000Z",
+				"weight": "0.09",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "PRE 12 ENGLISH",
+				"description": "Instead of 3",
+				"name": "English language final",
+				"percent": "80",
+				"score": "80",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2018-01-10T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "PRE 12 UNIT TEST",
+				"description": "Instead of 25",
+				"name": "CH 7 TEST",
+				"percent": "90",
+				"score": "90",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2018-01-02T16:00:00.000Z",
+				"weight": "0.14",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "PRE 12 MID TERM",
+				"description": "Instead of 62",
+				"name": "MID TERM EXAM",
+				"percent": "94.35",
+				"score": "94.35",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-11-09T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "Y1"]
+			}, {
+				"category": "PRE 12 QUIZZES",
+				"description": "Instead of 10",
+				"name": "CH 5 QUIZ",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-10-27T16:00:00.000Z",
+				"weight": "0.1",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "PRE 12 UNIT TEST",
+				"description": "Instead of 32",
+				"name": "CH 5 TEST",
+				"percent": "85.94",
+				"score": "85.94",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-11-02T16:00:00.000Z",
+				"weight": "0.1",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "PRE 12 ENGLISH",
+				"description": "Instead of 3",
+				"name": "English Lanaguag2",
+				"percent": "65",
+				"score": "65",
+				"letterGrade": "C",
+				"pointsPossible": "100.0",
+				"date": "2017-11-02T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "PRE 12 UNIT TEST",
+				"description": "Instead of 35",
+				"name": "CH 2 TEST",
+				"percent": "92.86",
+				"score": "92.86",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-09-30T16:00:00.000Z",
+				"weight": "0.13",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "PRE 12 UNIT TEST",
+				"description": "Instead of 42",
+				"name": "CH 3 TEST",
+				"percent": "91.67",
+				"score": "91.67",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-10-23T16:00:00.000Z",
+				"weight": "0.14",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "PRE 12 QUIZZES",
+				"description": "Instead of 11",
+				"name": "CH 3 QUZ",
+				"percent": "72.73",
+				"score": "72.73",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-10-18T16:00:00.000Z",
+				"weight": "0.14",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "PRE 12 QUIZZES",
+				"description": "Instead of 10",
+				"name": "CH 7 QUIZ",
+				"percent": "15",
+				"score": "15",
+				"letterGrade": "F",
+				"pointsPossible": "100.0",
+				"date": "2017-12-22T16:00:00.000Z",
+				"weight": "0.14",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "PRE 12 ASSIGNMENTS",
+				"description": "Instead of 10",
+				"name": "Project assignment",
+				"percent": "86",
+				"score": "86",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-12-22T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "PRE 12 QUIZZES",
+				"description": null,
+				"name": "CH 6 QUIZ",
+				"percent": "85",
+				"score": "85",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-12-03T16:00:00.000Z",
+				"weight": "0.16",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "PRE 12 UNIT TEST",
+				"description": "Instead of 31",
+				"name": "CH 6 TEST",
+				"percent": "91.94",
+				"score": "91.94",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-12-14T16:00:00.000Z",
+				"weight": "0.16",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}],
+			"expression": "A(1-2)",
+			"courseCode": "MA1201C0",
+			"enrollments": {
+				"endDate": "2018-01-19T16:00:00.000Z",
+				"enrollStatus": "0",
+				"id": "773847",
+				"startDate": "2017-09-03T16:00:00.000Z"
+			},
+			"finalGrades": {
+				"S1": {
+					"percent": "83.0",
+					"letter": "B",
+					"comment": null,
+					"eval": "--"
+				},
+				"T1": {
+					"percent": "90.0",
+					"letter": "A",
+					"comment": "Excellent progress to date.  \nA dedicated and hardworking student. ",
+					"eval": "M"
+				},
+				"T2": {
+					"percent": "79.0",
+					"letter": "B",
+					"comment": "A quiet student who needs to learn to speak up and practice using English to take part in class.   \nHardworking student who has a positive attitude about math. ",
+					"eval": "M"
+				}
+			},
+			"name": "Pre-Calculus 12",
+			"roomName": "A418",
+			"teacher": {
+				"firstName": "Moynul",
+				"lastName": "Hossain",
+				"email": "moynulhossain@mapleleafedu.com",
+				"schoolPhone": "8193 8780"
+			}
+		}, {
+			"assignments": [{
+				"category": "T2平时表现",
+				"description": null,
+				"name": "平时表现",
+				"percent": "98",
+				"score": "29.4",
+				"letterGrade": "A",
+				"pointsPossible": "30.0",
+				"date": "2018-01-09T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "平时作业",
+				"description": null,
+				"name": "平时作业",
+				"percent": "35.67",
+				"score": "10.7",
+				"letterGrade": "F",
+				"pointsPossible": "30.0",
+				"date": "2018-01-08T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "期末考试",
+				"description": null,
+				"name": "期末考试",
+				"percent": "67",
+				"score": "26.8",
+				"letterGrade": "C+",
+				"pointsPossible": "40.0",
+				"date": "2018-01-09T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "T3考勤",
+				"description": null,
+				"name": "T3考勤",
+				"percent": "95",
+				"score": "9.5",
+				"letterGrade": "A",
+				"pointsPossible": "10.0",
+				"date": "2018-04-10T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "T4其他作业",
+				"description": null,
+				"name": "T4其他作业",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "20.0",
+				"date": "2018-06-11T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T4", "Y1"]
+			}, {
+				"category": "T4考勤",
+				"description": null,
+				"name": "T4考勤",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "10.0",
+				"date": "2018-06-12T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T4", "Y1"]
+			}, {
+				"category": "T4期末试卷",
+				"description": null,
+				"name": "T4期末试卷",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "40.0",
+				"date": "2018-06-11T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T4", "Y1"]
+			}, {
+				"category": "T4五一作业",
+				"description": null,
+				"name": "T4五一作业",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "10.0",
+				"date": "2018-06-11T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T4", "Y1"]
+			}, {
+				"category": "T4课堂表现",
+				"description": null,
+				"name": "T4课堂表现",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "20.0",
+				"date": "2018-06-11T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T4", "Y1"]
+			}, {
+				"category": "T3作业",
+				"description": null,
+				"name": "T3作业",
+				"percent": "87.5",
+				"score": "17.5",
+				"letterGrade": "A",
+				"pointsPossible": "20.0",
+				"date": "2018-04-10T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "T3作业",
+				"description": null,
+				"name": "法律论文",
+				"percent": "0",
+				"score": "0",
+				"letterGrade": "F",
+				"pointsPossible": "10.0",
+				"date": "2018-03-18T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "出勤",
+				"description": null,
+				"name": "出勤",
+				"percent": "100",
+				"score": "10",
+				"letterGrade": "A",
+				"pointsPossible": "10.0",
+				"date": "2017-09-28T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "课堂表现",
+				"description": null,
+				"name": "课堂表现",
+				"percent": "80",
+				"score": "16",
+				"letterGrade": "B",
+				"pointsPossible": "20.0",
+				"date": "2017-09-28T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "暑假作业",
+				"description": null,
+				"name": "暑假作业",
+				"percent": "0",
+				"score": "0",
+				"letterGrade": "F",
+				"pointsPossible": "5.0",
+				"date": "2017-09-28T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "国庆海报",
+				"description": null,
+				"name": "国庆海报",
+				"percent": "0",
+				"score": "0",
+				"letterGrade": "F",
+				"pointsPossible": "10.0",
+				"date": "2017-10-30T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "期中试卷",
+				"description": null,
+				"name": "期中试卷",
+				"percent": "54",
+				"score": "21.6",
+				"letterGrade": "C-",
+				"pointsPossible": "40.0",
+				"date": "2017-10-30T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "学案",
+				"description": null,
+				"name": "学案",
+				"percent": "87.5",
+				"score": "7",
+				"letterGrade": "A",
+				"pointsPossible": "8.0",
+				"date": "2017-10-30T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "练习题",
+				"description": null,
+				"name": "练习题",
+				"percent": "81.43",
+				"score": "5.7",
+				"letterGrade": "B",
+				"pointsPossible": "7.0",
+				"date": "2017-10-30T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "T3表现",
+				"description": null,
+				"name": "T3表现",
+				"percent": "85",
+				"score": "17",
+				"letterGrade": "B",
+				"pointsPossible": "20.0",
+				"date": "2018-03-18T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "T3试卷",
+				"description": null,
+				"name": "T3试卷",
+				"percent": "82.75",
+				"score": "33.1",
+				"letterGrade": "B",
+				"pointsPossible": "40.0",
+				"date": "2018-03-18T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}],
+			"expression": "B(1)",
+			"courseCode": "CSS1206C3",
+			"enrollments": {
+				"endDate": "2018-06-29T16:00:00.000Z",
+				"enrollStatus": "0",
+				"id": "737175",
+				"startDate": "2017-08-25T16:00:00.000Z"
+			},
+			"finalGrades": {
+				"S1": {
+					"percent": "64.0",
+					"letter": "C",
+					"comment": null,
+					"eval": "--"
+				},
+				"T1": {
+					"percent": "60.0",
+					"letter": "C",
+					"comment": "A little more effort would have raised this mark to the next letter grade. ",
+					"eval": "P"
+				},
+				"T2": {
+					"percent": "67.0",
+					"letter": "C+",
+					"comment": "A dedicated and hardworking student. ",
+					"eval": "P"
+				},
+				"T3": {
+					"percent": "77.0",
+					"letter": "B",
+					"comment": "Making a definite effort to improve. ",
+					"eval": "P"
+				}
+			},
+			"name": "Chinese Social Studies 12",
+			"roomName": "A514",
+			"teacher": {
+				"firstName": "Fulan",
+				"lastName": "Li",
+				"email": "wei41914@163.com",
+				"schoolPhone": "8192 5719"
+			}
+		}, {
+			"assignments": [{
+				"category": "40卷面",
+				"description": null,
+				"name": "40卷面",
+				"percent": "80",
+				"score": "32",
+				"letterGrade": "B",
+				"pointsPossible": "40.0",
+				"date": "2018-01-11T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "30作业",
+				"description": null,
+				"name": "30作业",
+				"percent": "83.83",
+				"score": "25.15",
+				"letterGrade": "B",
+				"pointsPossible": "30.0",
+				"date": "2018-01-11T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "10出勤",
+				"description": null,
+				"name": "10出勤",
+				"percent": "100",
+				"score": "10",
+				"letterGrade": "A",
+				"pointsPossible": "10.0",
+				"date": "2017-12-10T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "20课堂表现",
+				"description": null,
+				"name": "20课堂表现",
+				"percent": "100",
+				"score": "20",
+				"letterGrade": "A",
+				"pointsPossible": "20.0",
+				"date": "2018-01-11T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "课堂表现",
+				"description": null,
+				"name": "表现",
+				"percent": "100",
+				"score": "20",
+				"letterGrade": "A",
+				"pointsPossible": "20.0",
+				"date": "2017-11-05T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "作业",
+				"description": null,
+				"name": "作业",
+				"percent": "88.33",
+				"score": "26.5",
+				"letterGrade": "A",
+				"pointsPossible": "30.0",
+				"date": "2017-11-05T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "卷面",
+				"description": null,
+				"name": "卷面",
+				"percent": "83",
+				"score": "33.2",
+				"letterGrade": "B",
+				"pointsPossible": "40.0",
+				"date": "2017-11-05T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "出勤",
+				"description": null,
+				"name": "出勤",
+				"percent": "100",
+				"score": "10",
+				"letterGrade": "A",
+				"pointsPossible": "10.0",
+				"date": "2017-11-05T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "40卷面",
+				"description": null,
+				"name": "试卷",
+				"percent": "62",
+				"score": "62",
+				"letterGrade": "C",
+				"pointsPossible": "100.0",
+				"date": "2018-04-15T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "30作业",
+				"description": null,
+				"name": "总作业",
+				"percent": "85.83",
+				"score": "25.75",
+				"letterGrade": "A",
+				"pointsPossible": "30.0",
+				"date": "2018-04-15T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "10出勤",
+				"description": null,
+				"name": "总出勤",
+				"percent": "100",
+				"score": "10",
+				"letterGrade": "A",
+				"pointsPossible": "10.0",
+				"date": "2018-04-15T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "20课堂表现",
+				"description": null,
+				"name": "总表现",
+				"percent": "95",
+				"score": "19",
+				"letterGrade": "A",
+				"pointsPossible": "20.0",
+				"date": "2018-04-15T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}],
+			"expression": "B(2)",
+			"courseCode": "CN1201C3",
+			"enrollments": {
+				"endDate": "2018-06-29T16:00:00.000Z",
+				"enrollStatus": "0",
+				"id": "737620",
+				"startDate": "2017-08-25T16:00:00.000Z"
+			},
+			"finalGrades": {
+				"S1": {
+					"percent": "89.0",
+					"letter": "A",
+					"comment": null,
+					"eval": "--"
+				},
+				"T1": {
+					"percent": "90.0",
+					"letter": "A",
+					"comment": "Good work! ",
+					"eval": "P"
+				},
+				"T2": {
+					"percent": "87.0",
+					"letter": "A",
+					"comment": "I am pleased to see the good work you have done this term. ",
+					"eval": "P"
+				},
+				"T3": {
+					"percent": "80.0",
+					"letter": "B",
+					"comment": "A little more effort would have raised this mark to the next letter grade. ",
+					"eval": "P"
+				}
+			},
+			"name": "Mandarin Chinese 12",
+			"roomName": "A506",
+			"teacher": {
+				"firstName": "Jing",
+				"lastName": "Zhang",
+				"email": "jianjia555@hotmail.com",
+				"schoolPhone": "8192 5709"
+			}
+		}, {
+			"assignments": [{
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Plot Exit Ticket",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-09-13T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Moodle Quiz - Completion",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-09-10T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Vocab and Grammar",
+				"description": null,
+				"name": "Week 1 - Vocabulary",
+				"percent": "75",
+				"score": "75",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-09-13T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Reading and Comprehension",
+				"description": null,
+				"name": "Literary Terms Review Quiz",
+				"percent": "84.04",
+				"score": "84.04",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-09-07T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Bought Binders",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-09-14T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Turtile Island Annotations",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-09-13T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Writing and Representing",
+				"description": null,
+				"name": "Acrostic Written Poem",
+				"percent": "91.67",
+				"score": "91.67",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-09-04T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Speaking and Listening",
+				"description": null,
+				"name": "Acrostic Oral Presentation",
+				"percent": "93.75",
+				"score": "93.75",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-09-05T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Vocab and Grammar",
+				"description": null,
+				"name": "Week 2 - Vocabulary",
+				"percent": "75",
+				"score": "75",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-09-21T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Descriptive Character Journal",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-09-28T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Corrections Week 2",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-09-27T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Holiday Homework Packages",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-10-08T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Vocab Sentences  31-40",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-11-08T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Speaking and Listening",
+				"description": null,
+				"name": "English in the classroom- Gender Unit",
+				"percent": "85",
+				"score": "85",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-11-28T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Corrections gender 20-30",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-11-08T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Vocab and Grammar",
+				"description": null,
+				"name": "Gender Vocab Quiz 21-30",
+				"percent": "90",
+				"score": "90",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-11-08T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Gender Project Reflections",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-11-27T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Vocab and Grammar",
+				"description": null,
+				"name": "Gender Vocab Quiz 31-40",
+				"percent": "85",
+				"score": "85",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-11-12T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Quotes-Paraphrase-Summarize",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-11-13T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Speaking and Listening",
+				"description": null,
+				"name": "Gender Project Presentations",
+				"percent": "72.92",
+				"score": "72.92",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-11-26T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Midterm 1 Reflection",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-11-08T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Discrimination Jargon",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-11-30T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Corrections Gender 31-40",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-11-28T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Speaking and Listening",
+				"description": null,
+				"name": "T3 English in Class",
+				"percent": "50",
+				"score": "50",
+				"letterGrade": "C-",
+				"pointsPossible": "100.0",
+				"date": "2018-04-15T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Eng 12 - Midterms",
+				"description": null,
+				"name": "January Midterm",
+				"percent": "52.54",
+				"score": "52.54",
+				"letterGrade": "C-",
+				"pointsPossible": "100.0",
+				"date": "2018-01-14T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Indian Education Read. Questions",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-12-06T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Indian Education Annotations",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-12-05T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "My Fight to Be White",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-12-04T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Vocab and Grammar",
+				"description": null,
+				"name": "Discrimination Vocab Quiz 11-20",
+				"percent": "85",
+				"score": "85",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-12-09T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Reading and Comprehension",
+				"description": null,
+				"name": "Her Solitary Place RQ",
+				"percent": "62.5",
+				"score": "62.5",
+				"letterGrade": "C",
+				"pointsPossible": "100.0",
+				"date": "2017-12-10T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Vocab and Grammar",
+				"description": null,
+				"name": "Discrimination Vocab Quiz 21-30",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-12-13T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Ind Ed. + Sol Pl synthesis edits",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2018-01-02T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Formative",
+				"description": null,
+				"name": "Ind. Ed. + Sol. Place Synthesis - Writing",
+				"percent": "66.67",
+				"score": "66.67",
+				"letterGrade": "C+",
+				"pointsPossible": "100.0",
+				"date": "2017-12-14T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "1st racism, sexism..now ableism annotations",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-12-17T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "2 synthesis exemplar breakdown (Ind Ed - Sol",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-12-18T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Formative",
+				"description": null,
+				"name": "Ind. Ed. + Sol. Place Synthesis - Ideas",
+				"percent": "66.67",
+				"score": "66.67",
+				"letterGrade": "C+",
+				"pointsPossible": "100.0",
+				"date": "2017-12-14T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "A Glance @ ppl dis. China annotations",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-12-26T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Vocab and Grammar",
+				"description": null,
+				"name": "Discrimination Sentences 31-40",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-12-28T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Discrimination Sentences 41-50",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2018-01-03T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Vocab and Grammar",
+				"description": null,
+				"name": "Discrimination 41-50 Quiz",
+				"percent": "75",
+				"score": "75",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2018-01-04T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Writing and Representing",
+				"description": null,
+				"name": "Ableism Synthesis - Writing",
+				"percent": "33.33",
+				"score": "33.33",
+				"letterGrade": "F",
+				"pointsPossible": "100.0",
+				"date": "2018-01-04T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Reading and Comprehension",
+				"description": null,
+				"name": "Ableism Synthesis - Ideas",
+				"percent": "58.33",
+				"score": "58.33",
+				"letterGrade": "C-",
+				"pointsPossible": "100.0",
+				"date": "2018-01-04T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Speaking and Listening",
+				"description": null,
+				"name": "Discrimination PSA",
+				"percent": "75",
+				"score": "75",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2018-01-11T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Speaking and Listening",
+				"description": null,
+				"name": "English in the classroom T2",
+				"percent": "50",
+				"score": "50",
+				"letterGrade": "C-",
+				"pointsPossible": "100.0",
+				"date": "2018-01-12T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Midterms",
+				"description": null,
+				"name": "Midterm #3",
+				"percent": "49.35",
+				"score": "49.35",
+				"letterGrade": "F",
+				"pointsPossible": "100.0",
+				"date": "2018-04-16T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Eng 12 - Vocab and Grammar",
+				"description": null,
+				"name": "Ideals Vocab Quiz - 41-50",
+				"percent": "95",
+				"score": "95",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2018-04-01T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Eng 12 - Formative",
+				"description": null,
+				"name": "Omelas Dystopia Hypothetical Synthesis - holi",
+				"percent": "58.33",
+				"score": "58.33",
+				"letterGrade": "C-",
+				"pointsPossible": "100.0",
+				"date": "2018-04-01T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Eng 12 - Vocab and Grammar",
+				"description": null,
+				"name": "Ideal Vocab 21-30",
+				"percent": "90",
+				"score": "90",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2018-03-21T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Eng 12 - Formative",
+				"description": null,
+				"name": "Chicken Hips and Sneetches Synthesis - writin",
+				"percent": "66.67",
+				"score": "66.67",
+				"letterGrade": "C+",
+				"pointsPossible": "100.0",
+				"date": "2018-03-29T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Eng 12 - Writing and Representing",
+				"description": null,
+				"name": "Rebellion-Dystopia Summative hypothetical",
+				"percent": "41.67",
+				"score": "41.67",
+				"letterGrade": "F",
+				"pointsPossible": "100.0",
+				"date": "2018-04-05T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Eng 12 - Vocab and Grammar",
+				"description": null,
+				"name": "Ideals Vocab 31-40",
+				"percent": "90",
+				"score": "90",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2018-03-28T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Eng 12 - Reading and Comprehension",
+				"description": null,
+				"name": "Rebellion Reading Quiz",
+				"percent": "76.67",
+				"score": "76.67",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2018-04-04T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Eng 12 - Formative",
+				"description": null,
+				"name": "Chicken Hips and Sneetches Synthesis - readin",
+				"percent": "58.33",
+				"score": "58.33",
+				"letterGrade": "C-",
+				"pointsPossible": "100.0",
+				"date": "2018-03-29T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Eng 12 - Vocab and Grammar",
+				"description": null,
+				"name": "Gender Vocab Quiz 11-20",
+				"percent": "65",
+				"score": "65",
+				"letterGrade": "C",
+				"pointsPossible": "100.0",
+				"date": "2017-10-25T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Munro's SA Brainstorm",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-10-25T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Vocab Sentences hmrk - 11-20",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-10-25T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Reading and Comprehension",
+				"description": null,
+				"name": "What Makes a Real Man - Reading",
+				"percent": "33.33",
+				"score": "33.33",
+				"letterGrade": "F",
+				"pointsPossible": "100.0",
+				"date": "2017-10-31T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Writing and Representing",
+				"description": null,
+				"name": "What Makes a Real Man - Writing",
+				"percent": "75",
+				"score": "75",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-10-30T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Gender Vocab Sentences 21-30",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-11-01T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Boys and Girls Exemplar Annotations",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-10-26T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Midterms",
+				"description": null,
+				"name": "1st Midterm",
+				"percent": "46.15",
+				"score": "46.15",
+				"letterGrade": "F",
+				"pointsPossible": "100.0",
+				"date": "2017-11-05T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Corrections Week 1",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-09-17T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Writing and Representing",
+				"description": null,
+				"name": "Alternative Perspective - Provincial Rubric",
+				"percent": "33.33",
+				"score": "33.33",
+				"letterGrade": "F",
+				"pointsPossible": "100.0",
+				"date": "2017-09-20T16:00:00.000Z",
+				"weight": "3.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Adjectives Hmrk",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-09-24T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Formative",
+				"description": null,
+				"name": "Alternative Perspective Assignment",
+				"percent": "68.75",
+				"score": "68.75",
+				"letterGrade": "C+",
+				"pointsPossible": "100.0",
+				"date": "2017-09-20T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Writing and Representing",
+				"description": null,
+				"name": "OC Final Draft",
+				"percent": "33.33",
+				"score": "33.33",
+				"letterGrade": "F",
+				"pointsPossible": "100.0",
+				"date": "2017-10-12T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Reading and Comprehension",
+				"description": null,
+				"name": "Plot Quiz - Pixar Videos",
+				"percent": "83.33",
+				"score": "83.33",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-09-14T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Speaking and Listening",
+				"description": null,
+				"name": "English Speaking Unit 1",
+				"percent": "75",
+				"score": "75",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-10-11T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Vocab and Grammar",
+				"description": null,
+				"name": "Gender Vocab 1-10",
+				"percent": "85",
+				"score": "85",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-10-18T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Reading and Comprehension",
+				"description": null,
+				"name": "Alice Munro Quiz",
+				"percent": "69.23",
+				"score": "69.23",
+				"letterGrade": "C+",
+				"pointsPossible": "100.0",
+				"date": "2017-10-23T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Single Story Annotations",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-10-15T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Gender List Annotations",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-10-16T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Adverbs notes",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-10-15T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Vocab Sentences Hmrk - Gender Week 1-10",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-10-17T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Speaking and Listening",
+				"description": null,
+				"name": "Pixton Presentations",
+				"percent": "75",
+				"score": "75",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-10-08T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Synthesis C&C Practice - intro and 1st paragr",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-12-04T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Vocab and Grammar",
+				"description": null,
+				"name": "Discrimination Vocab Quiz 1-10",
+				"percent": "90",
+				"score": "90",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-12-04T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Eng 12 - Vocab and Grammar",
+				"description": null,
+				"name": "Vocab App Test",
+				"percent": "80",
+				"score": "80",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2018-03-04T16:00:00.000Z",
+				"weight": "2.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Harrison Bergeron - notes and Qs",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2018-01-23T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Equillibrium - Movie Questions",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2018-01-22T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Ideals Sentences 1-10",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2018-01-22T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Midterm 2 Reflection",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2018-01-21T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "What is Utopia\/Dystopia ? research hmrk",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2018-01-21T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["Y1"]
+			}, {
+				"category": "Eng 12 - Vocab and Grammar",
+				"description": null,
+				"name": "Vocab Quiz Ideals 1-10",
+				"percent": "95",
+				"score": "95",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2018-01-24T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Ideals Sentences 11-20",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2018-01-25T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "CH + Dr.S Annotations",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2018-03-11T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Eng 12 - Speaking and Listening",
+				"description": null,
+				"name": "Utopia Dystopia Project Presentation",
+				"percent": "95.83",
+				"score": "95.83",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2018-03-05T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Eng 12 - Speaking and Listening",
+				"description": null,
+				"name": "Reflection - Notes",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2018-03-06T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Dr Seuss Annotations - Sneetches",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2018-03-11T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Reflection paragraph",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2018-03-07T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "Ideals sentences 21-30",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2018-03-14T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Eng 12 - Homework & Assignments",
+				"description": null,
+				"name": "emailed Evaluate synthesis",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2018-03-18T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}],
+			"expression": "C(1-2)",
+			"courseCode": "EN1201C3",
+			"enrollments": {
+				"endDate": "2018-06-29T16:00:00.000Z",
+				"enrollStatus": "0",
+				"id": "741296",
+				"startDate": "2017-08-25T16:00:00.000Z"
+			},
+			"finalGrades": {
+				"S1": {
+					"percent": "60.0",
+					"letter": "C",
+					"comment": null,
+					"eval": "--"
+				},
+				"T1": {
+					"percent": "63.0",
+					"letter": "C",
+					"comment": "Participation in class this term has been excellent.  The student tries his\/her best in all activities is always on task and sets a good example for other students. \nStudent does not know how to apply grammar in writing. he can understand most parts in class, but when writing, he makes the mistake without reflecting on what he learns. ",
+					"eval": "P"
+				},
+				"T2": {
+					"percent": "57.0",
+					"letter": "C-",
+					"comment": "Student has a good overall understanding of the course content but struggles to demonstrate this knowledge in writing. he is encouraged to continue working on writing skills with a specific focus on explaining ideas in paragraph form. \nA dedicated and hardworking student. ",
+					"eval": "P"
+				},
+				"T3": {
+					"percent": "62.0",
+					"letter": "C",
+					"comment": "Your efforts have been commendable. Keep working to improve your writing and reading comprehension.\nSuccess on the English provincial Exam will require more writing practice.",
+					"eval": "P"
+				}
+			},
+			"name": "English 12",
+			"roomName": "A207",
+			"teacher": {
+				"firstName": "Ashley",
+				"lastName": "Gastonguay",
+				"email": "ashleygastonguay@mapleleafedu.com",
+				"schoolPhone": "8193 8780"
+			}
+		}, {
+			"assignments": [{
+				"category": "C12-1",
+				"description": null,
+				"name": "Unit 1 Quiz #2",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-09-19T16:00:00.000Z",
+				"weight": "0.15",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "C12-1",
+				"description": null,
+				"name": "Unit 1 Quiz #1",
+				"percent": "61.11",
+				"score": "61.11",
+				"letterGrade": "C",
+				"pointsPossible": "100.0",
+				"date": "2017-09-11T16:00:00.000Z",
+				"weight": "0.18",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "C12-1",
+				"description": null,
+				"name": "Chemistry 11 Review",
+				"percent": "81.82",
+				"score": "81.82",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-09-06T16:00:00.000Z",
+				"weight": "0.1",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "C12-5",
+				"description": null,
+				"name": "Unit 5 Quiz #2",
+				"percent": "39.29",
+				"score": "39.29",
+				"letterGrade": "F",
+				"pointsPossible": "100.0",
+				"date": "2018-01-08T16:00:00.000Z",
+				"weight": "0.15",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "C12-3",
+				"description": null,
+				"name": "Unit 3 Lab",
+				"percent": "75",
+				"score": "75",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-10-30T16:00:00.000Z",
+				"weight": "0.25",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "C12-4B",
+				"description": null,
+				"name": "Unit 4B Quiz #2",
+				"percent": "7.69",
+				"score": "7.69",
+				"letterGrade": "F",
+				"pointsPossible": "100.0",
+				"date": "2017-12-11T16:00:00.000Z",
+				"weight": "0.2",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "C12-4B",
+				"description": null,
+				"name": "Unit 4B Exam",
+				"percent": "40.91",
+				"score": "40.91",
+				"letterGrade": "F",
+				"pointsPossible": "100.0",
+				"date": "2017-12-20T16:00:00.000Z",
+				"weight": "0.58",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "C12-4B",
+				"description": null,
+				"name": "Unit 4B Quiz #1",
+				"percent": "29.41",
+				"score": "29.41",
+				"letterGrade": "F",
+				"pointsPossible": "100.0",
+				"date": "2017-12-07T16:00:00.000Z",
+				"weight": "0.22",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "C12-5",
+				"description": null,
+				"name": "Unit 5 Exam",
+				"percent": "54.55",
+				"score": "54.55",
+				"letterGrade": "C-",
+				"pointsPossible": "100.0",
+				"date": "2018-01-10T16:00:00.000Z",
+				"weight": "0.5",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "C12-English Written",
+				"description": null,
+				"name": "English Written #1",
+				"percent": "90",
+				"score": "90",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-10-31T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "C12-English Oral",
+				"description": null,
+				"name": "English Oral #2",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2018-01-11T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "C12-English Oral",
+				"description": null,
+				"name": "English Oral #1",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-10-31T16:00:00.000Z",
+				"weight": "0.5",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "C12-5",
+				"description": null,
+				"name": "Unit 5 Quiz #1",
+				"percent": "58.33",
+				"score": "58.33",
+				"letterGrade": "C-",
+				"pointsPossible": "100.0",
+				"date": "2018-01-02T16:00:00.000Z",
+				"weight": "0.15",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "C12-5",
+				"description": null,
+				"name": "Battery Poster",
+				"percent": "78.33",
+				"score": "78.33",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2018-01-09T16:00:00.000Z",
+				"weight": "0.2",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "C12-English Written",
+				"description": null,
+				"name": "English Written #2",
+				"percent": "90",
+				"score": "90",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2018-01-11T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "C12-Final Exam",
+				"description": null,
+				"name": "Final Exam",
+				"percent": "56.82",
+				"score": "56.82",
+				"letterGrade": "C-",
+				"pointsPossible": "100.0",
+				"date": "2018-01-15T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "C12-3",
+				"description": null,
+				"name": "Unit 3 Exam",
+				"percent": "83.33",
+				"score": "83.33",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-11-01T16:00:00.000Z",
+				"weight": "0.5",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "C12-3",
+				"description": null,
+				"name": "Unit 3 Quiz #2",
+				"percent": "33.33",
+				"score": "33.33",
+				"letterGrade": "F",
+				"pointsPossible": "100.0",
+				"date": "2017-10-30T16:00:00.000Z",
+				"weight": "0.12",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "C12-3",
+				"description": null,
+				"name": "Unit 3 Quiz #1",
+				"percent": "81.25",
+				"score": "81.25",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-10-26T16:00:00.000Z",
+				"weight": "0.13",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "C12-Midterm",
+				"description": null,
+				"name": "Midterm Exam",
+				"percent": "81.43",
+				"score": "81.43",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-11-07T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "C12-1",
+				"description": null,
+				"name": "Unit 1 Exam",
+				"percent": "78.13",
+				"score": "78.13",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-09-24T16:00:00.000Z",
+				"weight": "0.57",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "C12-2",
+				"description": null,
+				"name": "Unit 2 Quiz #2",
+				"percent": "94.44",
+				"score": "94.44",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-10-11T16:00:00.000Z",
+				"weight": "0.12",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "C12-2",
+				"description": null,
+				"name": "Unit 2 Exam",
+				"percent": "84.72",
+				"score": "84.72",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-10-15T16:00:00.000Z",
+				"weight": "0.5",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "C12-2",
+				"description": null,
+				"name": "Unit 2 Lab",
+				"percent": "90.48",
+				"score": "90.48",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-10-26T16:00:00.000Z",
+				"weight": "0.25",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "C12-2",
+				"description": null,
+				"name": "Unit 2 Quiz #1",
+				"percent": "50",
+				"score": "50",
+				"letterGrade": "C-",
+				"pointsPossible": "100.0",
+				"date": "2017-10-09T16:00:00.000Z",
+				"weight": "0.13",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "C12-4A",
+				"description": null,
+				"name": "Unit 4A Exam",
+				"percent": "75",
+				"score": "75",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-12-04T16:00:00.000Z",
+				"weight": "0.5",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "C12-4A",
+				"description": null,
+				"name": "Unit 4A Quiz #2",
+				"percent": "36.84",
+				"score": "36.84",
+				"letterGrade": "F",
+				"pointsPossible": "100.0",
+				"date": "2017-11-27T16:00:00.000Z",
+				"weight": "0.13",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "C12-4A",
+				"description": null,
+				"name": "Unit 4A Quiz #1",
+				"percent": "57.14",
+				"score": "57.14",
+				"letterGrade": "C-",
+				"pointsPossible": "100.0",
+				"date": "2017-11-20T16:00:00.000Z",
+				"weight": "0.12",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "C12-4A",
+				"description": null,
+				"name": "Unit 4A Lab",
+				"percent": "80",
+				"score": "80",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-11-29T16:00:00.000Z",
+				"weight": "0.25",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}],
+			"expression": "D(1-2)",
+			"courseCode": "SC1202C0",
+			"enrollments": {
+				"endDate": "2018-01-19T16:00:00.000Z",
+				"enrollStatus": "0",
+				"id": "764825",
+				"startDate": "2017-09-03T16:00:00.000Z"
+			},
+			"finalGrades": {
+				"S1": {
+					"percent": "68.0",
+					"letter": "C+",
+					"comment": null,
+					"eval": "--"
+				},
+				"T1": {
+					"percent": "78.0",
+					"letter": "B",
+					"comment": "Displays a good attitude. \nUnderstanding of course concepts is evident. ",
+					"eval": "M"
+				},
+				"T2": {
+					"percent": "55.0",
+					"letter": "C-",
+					"comment": "Although grade is not high, effort is commendable. \nStudent experienced difficulty with some areas of study this term. ",
+					"eval": "M"
+				}
+			},
+			"name": "Chemistry 12",
+			"roomName": "A112",
+			"teacher": {
+				"firstName": "Kyle",
+				"lastName": "Thibeault",
+				"email": "kylethibeault@mapleleafedu.com",
+				"schoolPhone": "8192 5711"
+			}
+		}, {
+			"assignments": null,
+			"expression": "D(1-2)",
+			"courseCode": "SB1201C0",
+			"enrollments": {
+				"endDate": "2018-06-29T16:00:00.000Z",
+				"enrollStatus": "0",
+				"id": "841745",
+				"startDate": "2018-01-21T16:00:00.000Z"
+			},
+			"finalGrades": null,
+			"name": "Study Block",
+			"roomName": "A211",
+			"teacher": {
+				"firstName": "Amy",
+				"lastName": "Riggs",
+				"email": "amyriggs@mapleleafedu.com",
+				"schoolPhone": "8192 5771"
+			}
+		}, {
+			"assignments": [{
+				"category": "AP CS Labs",
+				"description": null,
+				"name": "U1 Labs",
+				"percent": "80",
+				"score": "8",
+				"letterGrade": "B",
+				"pointsPossible": "10.0",
+				"date": "2017-09-10T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "AP CS Assignments",
+				"description": null,
+				"name": "U1 Hardware Assignment",
+				"percent": "97.5",
+				"score": "97.5",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-09-04T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "AP CS Professionalism",
+				"description": null,
+				"name": "Professionalism",
+				"percent": "100",
+				"score": "80",
+				"letterGrade": "A",
+				"pointsPossible": "80.0",
+				"date": "2017-09-03T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": []
+			}, {
+				"category": "AP CS Unit Test",
+				"description": null,
+				"name": "U1 Hardware Test",
+				"percent": "84.38",
+				"score": "84.38",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-09-11T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "AP CS Quizzes",
+				"description": null,
+				"name": "U2 Design Quiz",
+				"percent": "95.46",
+				"score": "95.46",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-09-19T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "AP CS Unit Test",
+				"description": null,
+				"name": "U2 Design Test",
+				"percent": "95",
+				"score": "95",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-09-25T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "AP CS Quizzes",
+				"description": null,
+				"name": "U3 Quiz",
+				"percent": "85",
+				"score": "85",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-09-28T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "AP CS English",
+				"description": null,
+				"name": "English",
+				"percent": "82.5",
+				"score": "66",
+				"letterGrade": "B",
+				"pointsPossible": "80.0",
+				"date": "2017-09-03T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": []
+			}, {
+				"category": "AP CS Unit Test",
+				"description": null,
+				"name": "U3 Objects Test",
+				"percent": "93.25",
+				"score": "93.25",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-10-11T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "AP CS Assignments",
+				"description": null,
+				"name": "U3 Fraction Assignment",
+				"percent": "90",
+				"score": "90",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-10-12T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "AP CS Labs",
+				"description": null,
+				"name": "U3 Labs",
+				"percent": "100",
+				"score": "10",
+				"letterGrade": "A",
+				"pointsPossible": "10.0",
+				"date": "2017-10-10T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "AP CS Quizzes",
+				"description": null,
+				"name": "U1 Hardware Quiz",
+				"percent": "75",
+				"score": "75",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-09-05T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "AP CS Quizzes",
+				"description": null,
+				"name": "U5 Arrays Quiz",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-11-19T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "AP CS Assignments",
+				"description": null,
+				"name": "U2 Design Assignment",
+				"percent": "95",
+				"score": "95",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-09-26T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "AP CS Unit Test",
+				"description": null,
+				"name": "U4 Control Test",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-11-01T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "AP CS Midterm",
+				"description": null,
+				"name": "Midterm Exam",
+				"percent": "95.18",
+				"score": "95.18",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-11-05T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "AP CS Labs",
+				"description": null,
+				"name": "U4 Labs",
+				"percent": "100",
+				"score": "10",
+				"letterGrade": "A",
+				"pointsPossible": "10.0",
+				"date": "2017-11-01T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "AP CS Quizzes",
+				"description": null,
+				"name": "U4 Quiz",
+				"percent": "97.5",
+				"score": "97.5",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-10-24T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "AP CS Quizzes",
+				"description": null,
+				"name": "U4 Quiz 2",
+				"percent": "100",
+				"score": "100",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-10-30T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "AP CS Labs",
+				"description": null,
+				"name": "U2 Labs",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "10.0",
+				"date": "2017-09-24T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}, {
+				"category": "AP CS Unit Test",
+				"description": null,
+				"name": "Unit 6 Test",
+				"percent": "82.66",
+				"score": "82.66",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-12-11T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "AP CS Unit Test",
+				"description": null,
+				"name": "U5 Arrays Test",
+				"percent": "87.5",
+				"score": "87.5",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-11-19T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "AP CS Assignments",
+				"description": null,
+				"name": "U5 Arrays Assignment",
+				"percent": "90",
+				"score": "90",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-11-23T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "AP CS Assignments",
+				"description": null,
+				"name": "U7 Complex Object Assignment",
+				"percent": "90",
+				"score": "90",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-12-28T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "AP CS Final",
+				"description": null,
+				"name": "Final Exam",
+				"percent": "82.66",
+				"score": "82.66",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2018-01-18T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["Y1"]
+			}, {
+				"category": "AP CS Project",
+				"description": null,
+				"name": "Final Project - Proposal",
+				"percent": "90",
+				"score": "90",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2018-01-04T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "AP CS Project",
+				"description": null,
+				"name": "Final Project - Design",
+				"percent": "85",
+				"score": "85",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2018-01-09T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "AP CS Project",
+				"description": null,
+				"name": "Final Project - Presentation",
+				"percent": "95",
+				"score": "95",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2018-01-11T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "AP CS Quizzes",
+				"description": null,
+				"name": "Unit 7 Quiz 1",
+				"percent": "87.8",
+				"score": "87.8",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-12-18T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "AP CS Quizzes",
+				"description": null,
+				"name": "Unit 7 Quiz 2",
+				"percent": "75",
+				"score": "75",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-12-21T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "AP CS Unit Test",
+				"description": null,
+				"name": "Unit 7 Complex Objects Test",
+				"percent": "86.67",
+				"score": "86.67",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-12-26T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "AP CS Assignments",
+				"description": null,
+				"name": "Unit 6 - Presentation",
+				"percent": "95.83",
+				"score": "95.83",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2017-12-07T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}],
+			"expression": "E(1-2)",
+			"courseCode": "ASK1221C0",
+			"enrollments": {
+				"endDate": "2018-01-19T16:00:00.000Z",
+				"enrollStatus": "0",
+				"id": "738984",
+				"startDate": "2017-08-25T16:00:00.000Z"
+			},
+			"finalGrades": {
+				"S1": {
+					"percent": "89.0",
+					"letter": "A",
+					"comment": null,
+					"eval": "--"
+				},
+				"T1": {
+					"percent": "93.0",
+					"letter": "A",
+					"comment": "Student has demonstrated a high skill level. \nStudent has great participation and is showing strong leadership skills. ",
+					"eval": "M"
+				},
+				"T2": {
+					"percent": "85.0",
+					"letter": "B",
+					"comment": "\"Student has demonstrated a high skill level. \nThis student is a leader in class discussions and work in small groups. \"",
+					"eval": "M"
+				}
+			},
+			"name": "AP Computer Science A 12",
+			"roomName": "A214",
+			"teacher": {
+				"firstName": "Edwin",
+				"lastName": "Lee",
+				"email": "edwinlee@mapleleafedu.com",
+				"schoolPhone": "8192 5711"
+			}
+		}, {
+			"assignments": [{
+				"category": "P12U6",
+				"description": null,
+				"name": "U6T1",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "100.0",
+				"date": "2018-04-29T16:00:00.000Z",
+				"weight": "3.2",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T4", "Y1"]
+			}, {
+				"category": "P12U4",
+				"description": null,
+				"name": "U4L1",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "100.0",
+				"date": "2018-04-29T16:00:00.000Z",
+				"weight": "1.8",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T4", "Y1"]
+			}, {
+				"category": "P12U6",
+				"description": null,
+				"name": "U6Q1",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "100.0",
+				"date": "2018-04-29T16:00:00.000Z",
+				"weight": "0.8",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T4", "Y1"]
+			}, {
+				"category": "P12EP",
+				"description": null,
+				"name": "English Quiz 4",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "100.0",
+				"date": "2018-04-29T16:00:00.000Z",
+				"weight": "0.5",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T4", "Y1"]
+			}, {
+				"category": "P12U5",
+				"description": null,
+				"name": "U5P1",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "100.0",
+				"date": "2018-04-29T16:00:00.000Z",
+				"weight": "2.7",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T4", "Y1"]
+			}, {
+				"category": "P12EP",
+				"description": null,
+				"name": "English Quiz 5",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "100.0",
+				"date": "2018-04-29T16:00:00.000Z",
+				"weight": "0.5",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T4", "Y1"]
+			}, {
+				"category": "P12U5",
+				"description": null,
+				"name": "U5Q1",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "100.0",
+				"date": "2018-04-29T16:00:00.000Z",
+				"weight": "0.9",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T4", "Y1"]
+			}, {
+				"category": "P12FE",
+				"description": null,
+				"name": "Final Exam",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "300.0",
+				"date": "2018-04-29T16:00:00.000Z",
+				"weight": "10.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T4", "Y1"]
+			}, {
+				"category": "P12U6",
+				"description": null,
+				"name": "U6L1",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "100.0",
+				"date": "2018-04-29T16:00:00.000Z",
+				"weight": "1.6",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T4", "Y1"]
+			}, {
+				"category": "P12EP",
+				"description": null,
+				"name": "English Quiz 6",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "100.0",
+				"date": "2018-04-29T16:00:00.000Z",
+				"weight": "0.5",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T4", "Y1"]
+			}, {
+				"category": "P12U4",
+				"description": null,
+				"name": "U4Q1",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "100.0",
+				"date": "2018-04-29T16:00:00.000Z",
+				"weight": "0.9",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T4", "Y1"]
+			}, {
+				"category": "P12U5",
+				"description": null,
+				"name": "U5L1",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "100.0",
+				"date": "2018-04-29T16:00:00.000Z",
+				"weight": "1.8",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T4", "Y1"]
+			}, {
+				"category": "P12U4",
+				"description": null,
+				"name": "U4P1",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "100.0",
+				"date": "2018-04-29T16:00:00.000Z",
+				"weight": "2.7",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T4", "Y1"]
+			}, {
+				"category": "P12U5",
+				"description": null,
+				"name": "U5T1",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "100.0",
+				"date": "2018-04-29T16:00:00.000Z",
+				"weight": "3.6",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T4", "Y1"]
+			}, {
+				"category": "P12U6",
+				"description": null,
+				"name": "U6P1",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "100.0",
+				"date": "2018-04-29T16:00:00.000Z",
+				"weight": "2.4",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T4", "Y1"]
+			}, {
+				"category": "P12U4",
+				"description": null,
+				"name": "U4T1",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "100.0",
+				"date": "2018-04-29T16:00:00.000Z",
+				"weight": "3.6",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T4", "Y1"]
+			}, {
+				"category": "P12EP",
+				"description": null,
+				"name": "English Oral T2",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "100.0",
+				"date": "2018-04-29T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T4", "Y1"]
+			}, {
+				"category": "P12EP",
+				"description": null,
+				"name": "English Quiz 3",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "100.0",
+				"date": "2018-01-23T16:00:00.000Z",
+				"weight": "0.5",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "P12EP",
+				"description": null,
+				"name": "English Quiz 2",
+				"percent": "82.14",
+				"score": "82.14",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2018-01-23T16:00:00.000Z",
+				"weight": "0.5",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "P12ME",
+				"description": null,
+				"name": "Midterm",
+				"percent": "42.22",
+				"score": "63.33",
+				"letterGrade": "F",
+				"pointsPossible": "150.0",
+				"date": "2018-01-23T16:00:00.000Z",
+				"weight": "10.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "P12U2",
+				"description": null,
+				"name": "U2P1",
+				"percent": "80",
+				"score": "80",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2018-01-23T16:00:00.000Z",
+				"weight": "2.4",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "P12U1",
+				"description": null,
+				"name": "U1T1",
+				"percent": "51.92",
+				"score": "51.92",
+				"letterGrade": "C-",
+				"pointsPossible": "100.0",
+				"date": "2018-01-23T16:00:00.000Z",
+				"weight": "3.2",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "P12U1",
+				"description": null,
+				"name": "U1Q1",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "100.0",
+				"date": "2018-01-23T16:00:00.000Z",
+				"weight": "0.4",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "P12U1",
+				"description": null,
+				"name": "U1L1",
+				"percent": "80",
+				"score": "80",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2018-01-23T16:00:00.000Z",
+				"weight": "1.6",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "P12U1",
+				"description": null,
+				"name": "U1Q2",
+				"percent": "57.71",
+				"score": "57.71",
+				"letterGrade": "C-",
+				"pointsPossible": "100.0",
+				"date": "2018-01-23T16:00:00.000Z",
+				"weight": "0.4",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "P12EP",
+				"description": null,
+				"name": "English Quiz 1",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "100.0",
+				"date": "2018-01-23T16:00:00.000Z",
+				"weight": "0.5",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "P12U3",
+				"description": null,
+				"name": "U3L1",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "100.0",
+				"date": "2018-04-29T16:00:00.000Z",
+				"weight": "1.6",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T4", "Y1"]
+			}, {
+				"category": "P12U2",
+				"description": null,
+				"name": "U2Q1",
+				"percent": "0",
+				"score": "0",
+				"letterGrade": "F",
+				"pointsPossible": "100.0",
+				"date": "2018-01-23T16:00:00.000Z",
+				"weight": "0.8",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "P12U1",
+				"description": null,
+				"name": "U1P1",
+				"percent": "77.5",
+				"score": "77.5",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2018-01-23T16:00:00.000Z",
+				"weight": "2.4",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "P12U3",
+				"description": null,
+				"name": "U3Q1",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "100.0",
+				"date": "2018-01-23T16:00:00.000Z",
+				"weight": "0.8",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "P12U3",
+				"description": null,
+				"name": "U3P1",
+				"percent": "87.5",
+				"score": "87.5",
+				"letterGrade": "A",
+				"pointsPossible": "100.0",
+				"date": "2018-04-01T16:00:00.000Z",
+				"weight": "2.4",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "P12U2",
+				"description": null,
+				"name": "U2L1",
+				"percent": null,
+				"score": "--",
+				"letterGrade": null,
+				"pointsPossible": "100.0",
+				"date": "2018-01-23T16:00:00.000Z",
+				"weight": "1.6",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "P12U2",
+				"description": null,
+				"name": "U2T1",
+				"percent": "32.14",
+				"score": "32.14",
+				"letterGrade": "F",
+				"pointsPossible": "100.0",
+				"date": "2018-01-23T16:00:00.000Z",
+				"weight": "3.2",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "P12EP",
+				"description": null,
+				"name": "English Oral",
+				"percent": "60",
+				"score": "60",
+				"letterGrade": "C",
+				"pointsPossible": "100.0",
+				"date": "2018-01-23T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "P12U3",
+				"description": null,
+				"name": "U3T1",
+				"percent": "40",
+				"score": "40",
+				"letterGrade": "F",
+				"pointsPossible": "100.0",
+				"date": "2018-01-23T16:00:00.000Z",
+				"weight": "3.2",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}],
+			"expression": "E(1-2)",
+			"courseCode": "SC1203C0",
+			"enrollments": {
+				"endDate": "2018-06-29T16:00:00.000Z",
+				"enrollStatus": "0",
+				"id": "746428",
+				"startDate": "2018-01-21T16:00:00.000Z"
+			},
+			"finalGrades": {
+				"T3": {
+					"percent": "52.0",
+					"letter": "C-",
+					"comment": "Student has made little effort to complete assignments. Failure is possible if more effort is not made. \nSleeping in class continues to be an issue for this student. Yang, Yunfan should try to get more sleep at night so that he\/she can get the most benefit out of class time.",
+					"eval": "P"
+				}
+			},
+			"name": "Physics 12",
+			"roomName": "A405",
+			"teacher": {
+				"firstName": "Le",
+				"lastName": "Zhao",
+				"email": "lezhao@mapleleafedu.com",
+				"schoolPhone": "8192 5711"
+			}
+		}, {
+			"assignments": [{
+				"category": "Homework",
+				"description": null,
+				"name": "T2 Final Grade",
+				"percent": "70",
+				"score": "70",
+				"letterGrade": "C+",
+				"pointsPossible": "100.0",
+				"date": "2018-01-11T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T2", "Y1"]
+			}, {
+				"category": "Homework",
+				"description": null,
+				"name": "T3 Final Grade",
+				"percent": "72",
+				"score": "72",
+				"letterGrade": "C+",
+				"pointsPossible": "100.0",
+				"date": "2018-04-11T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S2", "T3", "Y1"]
+			}, {
+				"category": "Homework",
+				"description": null,
+				"name": "T1 Final Grade",
+				"percent": "76",
+				"score": "76",
+				"letterGrade": "B",
+				"pointsPossible": "100.0",
+				"date": "2017-11-05T16:00:00.000Z",
+				"weight": "1.0",
+				"includeInFinalGrade": "1",
+				"terms": ["S1", "T1", "Y1"]
+			}],
+			"expression": "N(1-2)",
+			"courseCode": "ME1201C3",
+			"enrollments": {
+				"endDate": "2018-06-29T16:00:00.000Z",
+				"enrollStatus": "0",
+				"id": "763485",
+				"startDate": "2017-09-03T16:00:00.000Z"
+			},
+			"finalGrades": {
+				"S1": {
+					"percent": "73.0",
+					"letter": "B",
+					"comment": null,
+					"eval": "--"
+				},
+				"T1": {
+					"percent": "76.0",
+					"letter": "B",
+					"comment": "He does not keep good track of time or adhere to the rules in homeroom daily performance evaluation. he is absent for exercise break, therefore he\/she should be more strict with himself\/herself in order to improve to the next level.  ",
+					"eval": "P"
+				},
+				"T2": {
+					"percent": "70.0",
+					"letter": "C+",
+					"comment": "Has a healthy learning attitude, conforms to the school rules and regulations. Should be more confident, hard-working and careful in active planning, then you will be more successful. ",
+					"eval": "P"
+				},
+				"T3": {
+					"percent": "72.0",
+					"letter": "C+",
+					"comment": "Has a healthy learning attitude, conforms to the school rules and regulations. Should be more confident, hard-working and careful in active planning, then you will be more successful. ",
+					"eval": "P"
+				}
+			},
+			"name": "Moral Education 12",
+			"roomName": "A411",
+			"teacher": {
+				"firstName": "Gordon",
+				"lastName": "Wu",
+				"email": "gordonwu@mapleleafedu.com",
+				"schoolPhone": "8192 5722"
+			}
+		}, {
+			"assignments": null,
+			"expression": "W(1-2)",
+			"courseCode": "HR1201C3",
+			"enrollments": {
+				"endDate": "2018-06-29T16:00:00.000Z",
+				"enrollStatus": "0",
+				"id": "763450",
+				"startDate": "2017-09-03T16:00:00.000Z"
+			},
+			"finalGrades": {
+				"T1": {
+					"percent": "0.0",
+					"letter": null,
+					"comment": "Reads quietly during Homeroom most of the time. ",
+					"eval": "P"
+				},
+				"T2": {
+					"percent": "0.0",
+					"letter": null,
+					"comment": "The student sometimes reads quietly during homeroom. ",
+					"eval": "P"
+				},
+				"T3": {
+					"percent": "0.0",
+					"letter": null,
+					"comment": "Student arrives on-time to homeroom class, has a book and other applicable resources, but doesnt seem to be actively engaged in their reading throughout the lesson. Sometimes needs reminders to focus on their reading, finish their reading-log or get their book ready for reading.",
+					"eval": "P"
+				}
+			},
+			"name": "Homeroom 12",
+			"roomName": "A411",
+			"teacher": {
+				"firstName": "Chris",
+				"lastName": "Cunningham",
+				"email": "chriscunningham@mapleleafedu.com",
+				"schoolPhone": "8192 5711"
+			}
+		}, {
+			"assignments": null,
+			"expression": "X(1-2)",
+			"courseCode": "HR1202",
+			"enrollments": {
+				"endDate": "2018-06-29T16:00:00.000Z",
+				"enrollStatus": "0",
+				"id": "812998",
+				"startDate": "2017-09-12T16:00:00.000Z"
+			},
+			"finalGrades": null,
+			"name": "Exercise Break",
+			"roomName": "A411",
+			"teacher": {
+				"firstName": "Gordon",
+				"lastName": "Wu",
+				"email": "gordonwu@mapleleafedu.com",
+				"schoolPhone": "8192 5722"
+			}
+		}, {
+			"assignments": null,
+			"expression": "Z(1-2)",
+			"courseCode": "GT1201C3",
+			"enrollments": {
+				"endDate": "2018-06-29T16:00:00.000Z",
+				"enrollStatus": "0",
+				"id": "763520",
+				"startDate": "2017-09-03T16:00:00.000Z"
+			},
+			"finalGrades": null,
+			"name": "Graduation Transitions",
+			"roomName": "A411",
+			"teacher": {
+				"firstName": "John",
+				"lastName": "Reaves",
+				"email": "johnreaves@mapleleafedu.com",
+				"schoolPhone": "8192 5660"
+			}
+		}],
+		"identity": "student",
+		"schools": {
+			"abbreviation": "MLWH",
+			"address": "Maple Leaf International School - Wuhan\r\n330 Minzu Road, East Lake Hi-Tech Development Zone\r\nWuhan,\r\nHubei\r\n430074",
+			"disabledFeatures": {
+				"activities": "true",
+				"assignments": "false",
+				"attendance": "false",
+				"citizenship": "false",
+				"currentGpa": "false",
+				"emailalerts": "true",
+				"fees": "true",
+				"finalGrades": "false",
+				"meals": "true",
+				"standards": "true"
+			},
+			"highGrade": "12",
+			"lowGrade": "9",
+			"mapMimeType": null,
+			"name": "Maple Leaf International School - Wuhan",
+			"schoolDisabled": "false",
+			"schoolDisabledMessage": "Access will resume on April 27th Friday. Thank you for your patience!\r\n4月27日周五端口将重新开放，谢谢理解！",
+			"schoolDisabledTitle": "Access is currently disabled. 暂时关闭访问。",
+			"schoolId": "11",
+			"schoolMapModifiedDate": null,
+			"schoolNumber": "10396789",
+			"schooladdress": "330 Minzu Road, East Lake Hi-Tech Development Zone",
+			"schoolcity": "Wuhan, Hubei, China",
+			"schoolcountry": null,
+			"schoolfax": "86 02781925788",
+			"schoolphone": "+86-027-8192-5705",
+			"schoolstate": "BC",
+			"schoolzip": "430074"
+		},
+		"attendances": [{
+			"code": "L",
+			"description": "Late < 5 minutes",
+			"date": "2017-10-24T16:00:00.000Z",
+			"period": "C(1-2)",
+			"name": "English 12"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2017-11-19T16:00:00.000Z",
+			"period": "E(1-2)",
+			"name": "AP Computer Science A 12"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2018-01-29T16:00:00.000Z",
+			"period": "E(1-2)",
+			"name": "Physics 12"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2018-01-30T16:00:00.000Z",
+			"period": "E(1-2)",
+			"name": "Physics 12"
+		}, {
+			"code": "P",
+			"description": "Present",
+			"date": "2017-11-13T16:00:00.000Z",
+			"period": "A(1-2)",
+			"name": "Pre-Calculus 12"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2017-11-19T16:00:00.000Z",
+			"period": "C(1-2)",
+			"name": "English 12"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2018-01-30T16:00:00.000Z",
+			"period": "B(2)",
+			"name": "Mandarin Chinese 12"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2018-01-31T16:00:00.000Z",
+			"period": "W(1-2)",
+			"name": "Homeroom 12"
+		}, {
+			"code": "E",
+			"description": "Excused Absence",
+			"date": "2017-09-26T16:00:00.000Z",
+			"period": "C(1-2)",
+			"name": "English 12"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2017-11-19T16:00:00.000Z",
+			"period": "A(1-2)",
+			"name": "Pre-Calculus 12"
+		}, {
+			"code": "R",
+			"description": "Late > 5 minutes",
+			"date": "2018-01-25T16:00:00.000Z",
+			"period": "E(1-2)",
+			"name": "Physics 12"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2018-01-29T16:00:00.000Z",
+			"period": "D(1-2)",
+			"name": "Study Block"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2018-01-30T16:00:00.000Z",
+			"period": "X(1-2)",
+			"name": "Exercise Break"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2017-11-19T16:00:00.000Z",
+			"period": "Z(1-2)",
+			"name": "Graduation Transitions"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2018-01-29T16:00:00.000Z",
+			"period": "A(1-2)",
+			"name": "Calculus 12"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2018-01-30T16:00:00.000Z",
+			"period": "N(1-2)",
+			"name": "Moral Education 12"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2018-01-30T16:00:00.000Z",
+			"period": "D(1-2)",
+			"name": "Study Block"
+		}, {
+			"code": "L",
+			"description": "Late < 5 minutes",
+			"date": "2018-03-11T16:00:00.000Z",
+			"period": "C(1-2)",
+			"name": "English 12"
+		}, {
+			"code": "R",
+			"description": "Late > 5 minutes",
+			"date": "2018-04-09T16:00:00.000Z",
+			"period": "E(1-2)",
+			"name": "Physics 12"
+		}, {
+			"code": "E",
+			"description": "Excused Absence",
+			"date": "2018-04-25T16:00:00.000Z",
+			"period": "A(1-2)",
+			"name": "Calculus 12"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2017-11-19T16:00:00.000Z",
+			"period": "X(1-2)",
+			"name": "Exercise Break"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2017-11-19T16:00:00.000Z",
+			"period": "W(1-2)",
+			"name": "Homeroom 12"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2018-01-29T16:00:00.000Z",
+			"period": "B(1)",
+			"name": "Chinese Social Studies 12"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2018-01-29T16:00:00.000Z",
+			"period": "X(1-2)",
+			"name": "Exercise Break"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2018-01-31T16:00:00.000Z",
+			"period": "C(1-2)",
+			"name": "English 12"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2018-01-31T16:00:00.000Z",
+			"period": "A(1-2)",
+			"name": "Calculus 12"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2017-11-19T16:00:00.000Z",
+			"period": "D(1-2)",
+			"name": "Chemistry 12"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2018-01-29T16:00:00.000Z",
+			"period": "C(1-2)",
+			"name": "English 12"
+		}, {
+			"code": "U",
+			"description": "Unexcused Classroom Departure",
+			"date": "2018-04-02T16:00:00.000Z",
+			"period": "X(1-2)",
+			"name": "Exercise Break"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2017-11-19T16:00:00.000Z",
+			"period": "N(1-2)",
+			"name": "Moral Education 12"
+		}, {
+			"code": "E",
+			"description": "Excused Absence",
+			"date": "2017-11-22T16:00:00.000Z",
+			"period": "B(2)",
+			"name": "Mandarin Chinese 12"
+		}, {
+			"code": "E",
+			"description": "Excused Absence",
+			"date": "2017-11-22T16:00:00.000Z",
+			"period": "C(1-2)",
+			"name": "English 12"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2018-01-31T16:00:00.000Z",
+			"period": "B(1)",
+			"name": "Chinese Social Studies 12"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2018-03-20T16:00:00.000Z",
+			"period": "W(1-2)",
+			"name": "Homeroom 12"
+		}, {
+			"code": "E",
+			"description": "Excused Absence",
+			"date": "2018-04-25T16:00:00.000Z",
+			"period": "X(1-2)",
+			"name": "Exercise Break"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2018-01-31T16:00:00.000Z",
+			"period": "E(1-2)",
+			"name": "Physics 12"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2017-11-19T16:00:00.000Z",
+			"period": "B(1)",
+			"name": "Chinese Social Studies 12"
+		}, {
+			"code": "E",
+			"description": "Excused Absence",
+			"date": "2017-11-22T16:00:00.000Z",
+			"period": "E(1-2)",
+			"name": "AP Computer Science A 12"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2018-01-30T16:00:00.000Z",
+			"period": "A(1-2)",
+			"name": "Calculus 12"
+		}, {
+			"code": "U",
+			"description": "Unexcused Classroom Departure",
+			"date": "2018-03-27T16:00:00.000Z",
+			"period": "X(1-2)",
+			"name": "Exercise Break"
+		}, {
+			"code": "E",
+			"description": "Excused Absence",
+			"date": "2018-04-25T16:00:00.000Z",
+			"period": "C(1-2)",
+			"name": "English 12"
+		}, {
+			"code": "E",
+			"description": "Excused Absence",
+			"date": "2018-04-25T16:00:00.000Z",
+			"period": "E(1-2)",
+			"name": "Physics 12"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2018-01-30T16:00:00.000Z",
+			"period": "W(1-2)",
+			"name": "Homeroom 12"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2018-01-31T16:00:00.000Z",
+			"period": "D(1-2)",
+			"name": "Study Block"
+		}, {
+			"code": "E",
+			"description": "Excused Absence",
+			"date": "2018-04-25T16:00:00.000Z",
+			"period": "D(1-2)",
+			"name": "Study Block"
+		}, {
+			"code": "E",
+			"description": "Excused Absence",
+			"date": "2017-12-10T16:00:00.000Z",
+			"period": "W(1-2)",
+			"name": "Homeroom 12"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2018-01-29T16:00:00.000Z",
+			"period": "W(1-2)",
+			"name": "Homeroom 12"
+		}, {
+			"code": "I",
+			"description": "Illness Absence",
+			"date": "2018-01-30T16:00:00.000Z",
+			"period": "C(1-2)",
+			"name": "English 12"
+		}, {
+			"code": "E",
+			"description": "Excused Absence",
+			"date": "2017-11-22T16:00:00.000Z",
+			"period": "A(1-2)",
+			"name": "Pre-Calculus 12"
+		}, {
+			"code": "P",
+			"description": "Present",
+			"date": "2018-04-01T16:00:00.000Z",
+			"period": "E(1-2)",
+			"name": "Physics 12"
+		}, {
+			"code": "E",
+			"description": "Excused Absence",
+			"date": "2018-04-25T16:00:00.000Z",
+			"period": "B(1)",
+			"name": "Chinese Social Studies 12"
+		}]
+	}
+}
