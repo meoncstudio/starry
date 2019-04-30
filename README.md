@@ -6,6 +6,42 @@
   <img src="https://raw.githubusercontent.com/MeoncStudio/Starry/master/211469506310972563.jpg" width="45%" alt="" />
 </div>
 
+## Introduction
+
+This project was mainly for booking tickets and check-in online for Graduation Prom 2018 of Maple Leaf International School - Wuhan.
+It was made from the end of April to the middle of June in 2018.
+
+Functions:
+ - Sign in via students' PowerSchool account
+ - Online ticket purchasing
+ - Online payment via Wechat
+ - Different ticket types and prices(Single, Couple, Volunteer and Academy)
+ - Prom Check-in via QR Code
+ - Gain free tickets(type of Academy tickets, for the students who had attended Bussiness Fair for Economics courses in 2018)
+ - Live voting - Best Party Boy
+ - Live voting - Best Party Girl
+ - Live voting - Best Couple
+ - Entrance status(for consolers to ensure their homeroom students were attended prom or went somewhere else)
+ 
+## Testing
+Here are some testing accounts for reviewing the project.
+
+As a Grade 12 Students:
+Username: grade12
+Password: yyf002
+
+As a other grades Students:
+Username: grade1101
+Username: grade1102
+Password: yyf002
+
+Also, if you are currently a student at Maple Leaf School, you can use your real PowerSchool account to sign in.
+
+
+## Notice
+
+This project is for archiving, some sensitive program files, such as database connection code, were removed from this project.
+
 ## Website Contributors
 
 1. Cloudy Young - Main Entrance, Teacher Entrance
