@@ -18,8 +18,8 @@ Functions:
  - Different ticket types and prices(Single, Couple, Volunteer and Academy)
  - Prom Check-in via QR Code
  - Gain free tickets(type of Academy tickets, for the students who had attended Bussiness Fair for Economics courses in 2018)
- - Live voting - Best Party Boy
- - Live voting - Best Party Girl
+ - Live voting - Party Queen
+ - Live voting - Party King
  - Live voting - Best Couple
  - Entrance status(for consolers to ensure their homeroom students were attended prom or went somewhere else)
  
