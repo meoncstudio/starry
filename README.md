@@ -27,13 +27,13 @@ Functions:
 Here are some testing accounts for reviewing the project.
 
 As a Grade 12 Students:
-Username: grade12
-Password: yyf002
+Username: `grade12`
+Password: `yyf002`
 
 As a other grades Students:
-Username: grade1101
-Username: grade1102
-Password: yyf002
+Username: `grade1101`
+Username: `grade1102`
+Password: `yyf002`
 
 Also, if you are currently a student at Maple Leaf School, you can use your real PowerSchool account to sign in.
 
