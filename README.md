@@ -40,7 +40,7 @@ Also, if you are currently a student at Maple Leaf School, you can use your real
 
 ## Notice
 
-This project is for archiving, some sensitive program files, such as database connection code, were removed from this project.
+This project is for archiving, some sensitive program files, such as database connection code and student graduation pictures, were removed from this project.
 
 ## Website Contributors
 
