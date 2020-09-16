@@ -30,11 +30,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <title>  </title>
-  <link rel="stylesheet" href="https://bj.bcebos.com/v1/leafer/Starry/layui-v2.2.6/css/layui.css" media="all">
+  <link rel="stylesheet" href="resource/layui-v2.2.6/css/layui.css" media="all">
   <link href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
   <link rel="stylesheet" href="https://anijs.github.io/lib/anicollection/anicollection.css">
   <!--<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>-->
-  <link href='https://gz.bcebos.com/v1/myexams/css/font.css?1.2' rel='stylesheet' type='text/css' />
+  <link href='resource/font.css?1.2' rel='stylesheet' type='text/css' />
 
   <style>
     body{
@@ -67,16 +67,14 @@
 		bottom: -100%; 
 		height: 250px; 
 		box-shadow: 0 1px 40px rgba(0,0,0,.25);
-		position: fixed; 
-		//border-top-left-radius: 10px; 
-		//border-top-right-radius: 10px;
+		position: fixed;
 	}
 	
 	.bg{
 		margin: 0;
 		padding: 0;
 		top: 0px;
-		background: url("https://bj.bcebos.com/v1/leafer/Starry/img/bg.png") no-repeat center;
+		background: url("resource/img/bg.png") no-repeat center;
 		background-size: cover;
 		text-align: center;
 		z-index: -30000;
@@ -119,7 +117,7 @@
 		height: 250px;
 		width: 250px;
 		box-shadow: 0px 0px 30px rgba(166,166,166,.85);
-		background: url("https://bj.bcebos.com/v1/leafer/Starry/img/avator.png") no-repeat center;
+		background: url("resource/img/avator.png") no-repeat center;
 		background-size: cover;
 		margin: 12px auto;
 		overflow: hidden;
@@ -296,7 +294,6 @@
 		bottom: 15px;
 		width: 600px;
 		z-index: -5000;
-		filter: alpha(opacity: 50); 
 		opacity: 0.5;
 		-moz-opacity:0.5;
 		-khtml-opacity: 0.5;
@@ -439,15 +436,15 @@
 <div class="blackCover" id="fetchingDataBlackCoverTop" style="z-index: 99999999;">
 	<div class="" style="position: fixed; top: 50%; transform: translateY(-50%); color: #fff; text-align: center; width: 100%;">
 		<i class="fa fa-star fa-spin fa-4x"></i><br><br>
-		<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/fetching-data-tip.png" style="width: 40%;" />
+		<img src="resource/img/lang-zh/fetching-data-tip.png" style="width: 40%;" />
 	</div>
 </div>
 	
-	<script src="https://gz.bcebos.com/v1/myexams/js/jquery-3.2.1.min.js"></script>
+	<script src="resource/jquery-3.2.1.min.js"></script>
 
-<script src="https://bj.bcebos.com/v1/leafer/Starry/i18n/jquery.i18n.properties.js"></script> 
+<script src="resource/i18n/jquery.i18n.properties.js"></script> 
 
-<script src="https://bj.bcebos.com/v1/leafer/Starry/layui-v2.2.6/layui.all.js"></script>
+<script src="resource/layui-v2.2.6/layui.all.js"></script>
 	
 	<div id="mainMenu" class="menuIndex">
 	<div class="items-static" style="color: #000;">
@@ -499,7 +496,7 @@
 				?>
 				
 				<div class="avator" id="avator" data-anijs="if: click, do: pulse animated" style="background-image: url('data:image/png;base64,<?php echo $studs[0]['photo'] ?>')">
-					<img id="avator_cover" src="https://bj.bcebos.com/v1/leafer/Starry/img/avator_cover.png" style="height: 100%; width: 100%;" />
+					<img id="avator_cover" src="resource/img/avator_cover.png" style="height: 100%; width: 100%;" />
 				</div>
 				
 				<div style="text-align: center; font-size: 18px;">
@@ -590,7 +587,7 @@ if($ret[0]['status'] == 'ACTIVATED'){
 		<div id='stars'></div>
 		<div id='stars2'></div>
 		<div id='stars3'></div>
-		<img id='cloud' src="https://bj.bcebos.com/v1/leafer/Starry/img/cloud2.png" />
+		<img id='cloud' src="resource/img/cloud2.png" />
 	</div>
 	
 	

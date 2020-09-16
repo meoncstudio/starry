@@ -53,11 +53,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <title>  </title>
-  <link rel="stylesheet" href="https://bj.bcebos.com/v1/leafer/Starry/layui-v2.2.6/css/layui.css" media="all">
+  <link rel="stylesheet" href="resource/layui-v2.2.6/css/layui.css" media="all">
   <link href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
   <link rel="stylesheet" href="https://anijs.github.io/lib/anicollection/anicollection.css">
   <!--<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>-->
-  <link href='https://gz.bcebos.com/v1/myexams/css/font.css?1.2' rel='stylesheet' type='text/css' />
+  <link href='resource/font.css?1.2' rel='stylesheet' type='text/css' />
 
   <style>
     body{
@@ -90,16 +90,14 @@
 		bottom: -100%; 
 		height: 250px; 
 		box-shadow: 0 1px 40px rgba(0,0,0,.25);
-		position: fixed; 
-		//border-top-left-radius: 10px; 
-		//border-top-right-radius: 10px;
+		position: fixed;
 	}
 	
 	.bg{
 		margin: 0;
 		padding: 0;
 		top: 0px;
-		background: url("https://bj.bcebos.com/v1/leafer/Starry/img/bg.png") no-repeat center;
+		background: url("resource/img/bg.png") no-repeat center;
 		background-size: cover;
 		text-align: center;
 		z-index: -30000;
@@ -142,7 +140,7 @@
 		height: 130px;
 		width: 130px;
 		box-shadow: 0px 0px 30px rgba(166,166,166,.85);
-		background: url("https://bj.bcebos.com/v1/leafer/Starry/img/avator.png") no-repeat center;
+		background: url("resource/img/avator.png") no-repeat center;
 		background-size: cover;
 		margin: 12px auto;
 		overflow: hidden;
@@ -319,7 +317,6 @@
 		bottom: 15px;
 		width: 600px;
 		z-index: -5000;
-		filter: alpha(opacity: 50); 
 		opacity: 0.5;
 		-moz-opacity:0.5;
 		-khtml-opacity: 0.5;
@@ -459,7 +456,7 @@
 <body>
 
 
-<script src="https://gz.bcebos.com/v1/myexams/js/jquery-3.2.1.min.js"></script>
+<script src="resource/jquery-3.2.1.min.js"></script>
 
 <div class="loadingCover" id="loadingCover">
 	<div class="" style="position: fixed; top: 50%; transform: translateY(-50%); color: #fff; text-align: center; width: 100%;">
@@ -485,15 +482,15 @@
 
 
 <div class="blackCover" id="clickTitleBackTipBlackCover">
-<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/click-title-back-tip.png" style="width: 86%; max-width: 500px; position: absolute; top: 0%; transform: translateX(-50%); z-index: 20000; left: 50%; " id="clickTitleBackTip" /></div>
+<img src="resource/img/lang-zh/click-title-back-tip.png" style="width: 86%; max-width: 500px; position: absolute; top: 0%; transform: translateX(-50%); z-index: 20000; left: 50%; " id="clickTitleBackTip" /></div>
 
-<div class="blackCover" id="selectTicketTypeTipWindowBlackCover"><img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/select-ticket-type-tip-window.png" style="width: 100%; position: absolute; top: 50%; transform: translateY(-50%) translateX(-50%); z-index: 20000; left: 50%; max-width: 500px;" /></div>
+<div class="blackCover" id="selectTicketTypeTipWindowBlackCover"><img src="resource/img/lang-zh/select-ticket-type-tip-window.png" style="width: 100%; position: absolute; top: 50%; transform: translateY(-50%) translateX(-50%); z-index: 20000; left: 50%; max-width: 500px;" /></div>
 
 
 <div class="blackCover" id="purchaseBillBlackCover">
 	<div class="" style="position: fixed; top: 50%; transform: translateY(-50%); color: #fff; text-align: center; width: 100%;">
 		<i class="fa fa-money fa-spin fa-4x"></i><br><br>
-		<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/fetchingBill.png" style="width: 40%;" />
+		<img src="resource/img/lang-zh/fetchingBill.png" style="width: 40%;" />
 	</div>
 </div>
 
@@ -501,7 +498,7 @@
 <div class="blackCover" id="fetchingDataBlackCoverTop" style="z-index: 99999999;">
 	<div class="" style="position: fixed; top: 50%; transform: translateY(-50%); color: #fff; text-align: center; width: 100%;">
 		<i class="fa fa-star fa-spin fa-4x"></i><br><br>
-		<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/fetching-data-tip.png" style="width: 40%;" />
+		<img src="resource/img/lang-zh/fetching-data-tip.png" style="width: 40%;" />
 	</div>
 </div>
 
@@ -510,7 +507,7 @@
 <div class="blackCover" id="finishPaymentInWechatBlackCover" style="z-index: 99999999;">
 	<div class="" style="position: fixed; top: 50%; transform: translateY(-50%); color: #fff; text-align: center; width: 100%;">
 		<i class="fa fa-wechat fa-4x"></i><br><br>
-		<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/finish-payment-in-wechat.png" style="width: 40%;" />
+		<img src="resource/img/lang-zh/finish-payment-in-wechat.png" style="width: 40%;" />
 	</div>
 </div>
 
@@ -545,7 +542,7 @@
 
 <div id="backIndex">
 	<div class="deepIndex" style="text-align: center; top: 0px; color: #fff;"  data-anijs="if: load, on: window, do: fadeInUp animated">
-		<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/subtitle.png" style="width: 70%;" />
+		<img src="resource/img/lang-zh/subtitle.png" style="width: 70%;" />
 		<?php
 			if(time() < strtotime('2018/6/6 07:00:00')){
 		?>
@@ -560,15 +557,15 @@
 	</div>
 
 	<div class="deepIndex" style="top: 50%; transform: translateY(-60%);">
-		<img data-anijs="if: load, on: window, do: fadeIn animated" src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/title.png"/>
+		<img data-anijs="if: load, on: window, do: fadeIn animated" src="resource/img/lang-zh/title.png"/>
 	</div>
 
 	<div class="deepIndex button" style="text-align: center; top: 78%; transform: translateY(-50%);" id="pressStart">
-		<img data-anijs="if: load, on: window, do: fadeInDown animated" src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/start.png" style="width: 45%;" />
+		<img data-anijs="if: load, on: window, do: fadeInDown animated" src="resource/img/lang-zh/start.png" style="width: 45%;" />
 	</div>
 
 	<div class="deepIndex" style="bottom: 30px;">
-		<img src="https://bj.bcebos.com/v1/leafer/Starry/img/copyright.png"/>
+		<img src="resource/img/copyright.png"/>
 	</div>
 </div>
 
@@ -579,12 +576,12 @@
 	
 	<div id="loginPanel" style="padding: 0px 40px;">
 		<div style="margin: 2px;">
-			<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/login-title.png" style="width: 80%;" />
+			<img src="resource/img/lang-zh/login-title.png" style="width: 80%;" />
 		</div>
 
 		<div style="text-align: center;">
-			<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/login-tip.png" style="width: 80%;" />
-			<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/login-explain.png" style="width: 80%; transform: translateY(-10px);" />
+			<img src="resource/img/lang-zh/login-tip.png" style="width: 80%;" />
+			<img src="resource/img/lang-zh/login-explain.png" style="width: 80%; transform: translateY(-10px);" />
 		</div>
 		
 		
@@ -601,25 +598,25 @@
 	
 	<div id="loginLoading" style="margin: 0px 20px; margin-top: 80px;">
 		<i class="fa fa-star fa-spin fa-4x"></i><br><br>
-		<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/authentication-processing.png" style="width: 90%;" />
+		<img src="resource/img/lang-zh/authentication-processing.png" style="width: 90%;" />
 	</div>
 	
 	<div id="loginInfo" style="margin: 0px 20px;">
 		
 		<div style="margin: 2px;">
-			<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/select-account.png" style="width: 80%;" />
+			<img src="resource/img/lang-zh/select-account.png" style="width: 80%;" />
 		</div>
 		
 		<div id="personInfo">
 			<div class="avator" id="avator" data-anijs="if: click, do: pulse animated">
-				<img id="avator_cover" src="https://bj.bcebos.com/v1/leafer/Starry/img/avator_cover.png" style="height: 100%; width: 100%;" />
+				<img id="avator_cover" src="resource/img/avator_cover.png" style="height: 100%; width: 100%;" />
 			</div>
 			
 			<div>
 				<b><div id="infoUsername" style="font-size: 18px;">Yang Yunfan</div></b>
-				<img id="infoGrade10" src="https://bj.bcebos.com/v1/leafer/Starry/img/Grade-10.png" style="width: 110px;" />
-				<img id="infoGrade11" src="https://bj.bcebos.com/v1/leafer/Starry/img/Grade-11.png" style="width: 110px;" />
-				<img id="infoGrade12" src="https://bj.bcebos.com/v1/leafer/Starry/img/Grade-12.png" style="width: 110px;" />
+				<img id="infoGrade10" src="resource/img/Grade-10.png" style="width: 110px;" />
+				<img id="infoGrade11" src="resource/img/Grade-11.png" style="width: 110px;" />
+				<img id="infoGrade12" src="resource/img/Grade-12.png" style="width: 110px;" />
 			</div>
 		</div>
 		
@@ -632,9 +629,9 @@
 	<div style="font-size: 17px; text-align: center; padding: 10px;">
 		<b><div id="infoUsername-mini">Yang Yunfan</div></b>
 		<div>
-			<img id="infoGrade10-mini" src="https://bj.bcebos.com/v1/leafer/Starry/img/Grade-10-c.png" style="width: 110px;" />
-			<img id="infoGrade11-mini" src="https://bj.bcebos.com/v1/leafer/Starry/img/Grade-11-c.png" style="width: 110px;" />
-			<img id="infoGrade12-mini" src="https://bj.bcebos.com/v1/leafer/Starry/img/Grade-12-c.png" style="width: 110px;" />
+			<img id="infoGrade10-mini" src="resource/img/Grade-10-c.png" style="width: 110px;" />
+			<img id="infoGrade11-mini" src="resource/img/Grade-11-c.png" style="width: 110px;" />
+			<img id="infoGrade12-mini" src="resource/img/Grade-12-c.png" style="width: 110px;" />
 		</div>
 	</div>
 </div>
@@ -644,13 +641,13 @@
 	<div style="font-size: 17px; text-align: center; padding: 10px;">
 		<b><div id="votes-mini">246</div></b>
 		<div>
-			<img id="infoGrade10-mini" src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/votes-left-title.png" style="width: 110px;" />
+			<img id="infoGrade10-mini" src="resource/img/lang-zh/votes-left-title.png" style="width: 110px;" />
 		</div>
 	</div>
 </div>
 
 
-<script src="https://bj.bcebos.com/v1/leafer/Starry/countUp.js"></script>
+<script src="resource/countUp.js"></script>
 <script>
 	
 	var votes_mini = new CountUp('votes-mini', 246 , 0, 0, 5);
@@ -661,9 +658,9 @@
 <div id="language-select" class="coverIndex button" style="height: 100%; padding: 0px; width: 100%; overflow: hidden; background: rgba(0, 0, 0, 0.8); bottom: 0%;">
 	
 	<div style="top: 50%; position: fixed; transform: translateY(-55%);">
-		<img id="lang-zh" src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-select-zh.png" style="width: 40%;" />
+		<img id="lang-zh" src="resource/img/lang-select-zh.png" style="width: 40%;" />
 		<br><br>
-		<img id="lang-en" src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-select-en.png" style="width: 40%;" />
+		<img id="lang-en" src="resource/img/lang-select-en.png" style="width: 40%;" />
 	</div>
 	
 </div>
@@ -674,7 +671,7 @@
 
 
 <script src="https://cdn.bootcss.com/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
-<script src="https://bj.bcebos.com/v1/leafer/Starry/jquery.jsonp.js"></script>
+<script src="resource/jquery.jsonp.js"></script>
 	<script>
 	
 		
@@ -1101,9 +1098,9 @@
 </script>
 
 
-<script src="https://bj.bcebos.com/v1/leafer/Starry/layui-v2.2.6/layui.all.js"></script>
-<script src="https://bj.bcebos.com/v1/leafer/Starry/i18n/jquery.i18n.properties.js"></script> 
-<script src="https://bj.bcebos.com/v1/leafer/Starry/i18n/jquery.json.min.js"></script> 
+<script src="resource/layui-v2.2.6/layui.all.js"></script>
+<script src="resource/i18n/jquery.i18n.properties.js"></script> 
+<script src="resource/i18n/jquery.json.min.js"></script> 
 
 <script>
 
@@ -1188,14 +1185,14 @@
 
 
 <!-- AniJS core library -->
-<script src="https://bj.bcebos.com/v1/leafer/Starry/anijs-min.js"></script> 
+<script src="resource/anijs-min.js"></script> 
 
 
 <div style="position: fixed; height: 100%; width: 100%; max-width: 500px; top: 0px; left: 0px; z-index: -5000;">
 	<div id='stars'></div>
 	<div id='stars2'></div>
 	<div id='stars3'></div>
-	<img id='cloud' src="https://bj.bcebos.com/v1/leafer/Starry/img/cloud2.png" />
+	<img id='cloud' src="resource/img/cloud2.png" />
 </div>
 
 </body>

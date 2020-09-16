@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+@font-face {
+	font-family: 'MyriadPro-Light';
+	src: url('font/MyriadPro/MyriadPro-Light.otf') format("opentype"),
+		url('font/MyriadPro/MyriadPro-Light.eot') format('embedded-opentype'),
+		url('font/MyriadPro/MyriadPro-Light.woff2') format('woff2'),	
+		url('font/MyriadPro/MyriadPro-Light.woff') format('woff'),
+		url('font/MyriadPro/MyriadPro-Light.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: "MyriadSetPro-Medium";
+	src: url("font/MyriadPro/MyriadSetPro-Medium.woff2") format("woff2"),
+       url("font/MyriadPro/MyriadSetPro-Medium.woff") format("woff"),
+       url("font/MyriadPro/MyriadSetPro-Medium.ttf") format("truetype"),
+       url("font/MyriadPro/MyriadSetPro-Medium.eot") format("embedded-opentype"),
+       url("font/MyriadPro/MyriadSetPro-Medium.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+	font-family: 'MyriadSetPro-Thin';
+	src: url('font/MyriadPro/5be52a3af629d916bcd54be8(1).gif?r=90138810502');
+	src: url('font/MyriadPro/5be52a3af629d916bcd54be8.gif?r=90138810502?#iefix') format('embedded-opentype'),
+		url('font/MyriadPro/5be52a3af629d916bcd54be8.png?r=90138810502') format('woff2'),
+		url('font/MyriadPro/5be52a3af629d916bcd54be8.bmp?r=90138810502') format('woff');
+	font-weight: normal;
+	font-style: normal;} 
+
+body{
+	font-family:'MyriadSetPro-Thin', 'MyriadPro-Light';
+}

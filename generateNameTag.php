@@ -24,10 +24,10 @@
 <html>
 <head>
 
-  <link rel="stylesheet" href="https://bj.bcebos.com/v1/leafer/Starry/layui-v2.2.6/css/layui.css" media="all">
+  <link rel="stylesheet" href="resource/layui-v2.2.6/css/layui.css" media="all">
   <link href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
   <!--<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>-->
-  <link href='https://gz.bcebos.com/v1/myexams/css/font.css?1.2' rel='stylesheet' type='text/css' />
+  <link href='resource/font.css?1.2' rel='stylesheet' type='text/css' />
   <style>
   
   body{

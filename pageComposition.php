@@ -52,7 +52,7 @@
 		?>
 			
 			<div id="select-entrance">
-				<img id="select-entrance-title" src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/select-entrance.png" style="width: 70%;" />
+				<img id="select-entrance-title" src="resource/img/lang-zh/select-entrance.png" style="width: 70%;" />
 			
 			
 			<?php
@@ -63,7 +63,7 @@
 			
 			<div class="items" id="BindingPhone">
 				<div class="items-title"><span data-lang="bind-phone">绑定手机号</span>&nbsp;
-				<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/item-active.png" style="width: 2em;" /></div>
+				<img src="resource/img/lang-zh/item-active.png" style="width: 2em;" /></div>
 				<div class="items-description" data-lang="bind-phone-description">绑定手机号，随时接收最新动态</div>
 				<div class="items-right-arrow"><i class="fa fa-angle-right"></i></div>
 				
@@ -89,7 +89,7 @@
 			
 			<div class="items" id="PurchaseTicketButton">
 				<div class="items-title"><span data-lang="purchase-ticket">入场票购买</span>&nbsp;
-				<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/item-active.png" style="width: 2em;" /></div>
+				<img src="resource/img/lang-zh/item-active.png" style="width: 2em;" /></div>
 				<div class="items-description" data-lang="purchase-ticket-description">在线购买“星空夏 2018毕业舞会”入场票，支持微信支付</div>
 				<div class="items-right-arrow"><i class="fa fa-angle-right"></i></div>
 				
@@ -123,7 +123,7 @@
 				
 				<div class="items" id="CheckMyTicketButton">
 				<div class="items-title"><span data-lang="check-ticket">入场票查看</span>&nbsp;
-				<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/item-active.png" style="width: 2em;" /></div>
+				<img src="resource/img/lang-zh/item-active.png" style="width: 2em;" /></div>
 				<div class="items-description">
 				<span data-lang="check-ticket-description">在线查看我的入场票，用于激活和检票出示</span>
 				<hr>
@@ -178,7 +178,7 @@
 				
 			<div class="items" id="BindingCoupleButton">
 				<div class="items-title"><span data-lang="binding-cp">绑定你的CP</span>&nbsp;
-				<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/item-active.png" style="width: 2em;" /></div>
+				<img src="resource/img/lang-zh/item-active.png" style="width: 2em;" /></div>
 				<div class="items-description">
 				<span data-lang="binding-cp-description">在线绑定你的另一半，参与【最佳情侣】评选</span>
 				</div>
@@ -239,21 +239,21 @@
 			
 			<div id="CoupleVoting" class="items">
 				<div class="items-title"><span data-lang="couple-voting">【现场投票】最佳情侣 BEST COUPLE</span>&nbsp;
-				<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/item-active.png" style="width: 2em;" /></div>
+				<img src="resource/img/lang-zh/item-active.png" style="width: 2em;" /></div>
 				<div class="items-description" data-lang="voting-description">Pick 你最喜欢的一对CP吧</div>
 				<div class="items-right-arrow"><i class="fa fa-angle-right"></i></div>				
 			</div>
 			
 			<div id="KingVoting" class="items">
 				<div class="items-title"><span data-lang="king-voting">【现场投票】舞会之王 PROM KING</span>&nbsp;
-				<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/item-active.png" style="width: 2em;" /></div>
+				<img src="resource/img/lang-zh/item-active.png" style="width: 2em;" /></div>
 				<div class="items-description" data-lang="voting-description">Pick 你最喜欢的舞会男性</div>
 				<div class="items-right-arrow"><i class="fa fa-angle-right"></i></div>				
 			</div>
 			
 			<div id="QueenVoting" class="items">
 				<div class="items-title"><span data-lang="queen-voting">【现场投票】舞会之皇 PROM QUEEN</span>&nbsp;
-				<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/item-active.png" style="width: 2em;" /></div>
+				<img src="resource/img/lang-zh/item-active.png" style="width: 2em;" /></div>
 				<div class="items-description" data-lang="voting-description">Pick 你最喜欢的舞会女性</div>
 				<div class="items-right-arrow"><i class="fa fa-angle-right"></i></div>				
 			</div>
@@ -382,7 +382,7 @@
 			<!--
 			<div class="items" id="GiftStoreButton">
 				<div class="items-title"><span data-lang="gift-store">星空 · 格子铺</span>&nbsp;
-				<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/item-hot.png" style="width: 2em;" /></div>
+				<img src="resource/img/lang-zh/item-hot.png" style="width: 2em;" /></div>
 				<div class="items-description">
 				<span data-lang="gift-store-description">为你精心挑选的入场伴手礼，支持微信支付</span>
 				</div>
@@ -474,8 +474,8 @@
 			
 		<div id="select-ticket-type" class="menuIndex">
 			
-			<img id="select-ticket-type-title" src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/select-ticket-type.png" style="width: 70%;" />
-			<!--<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/select-ticket-type-tip.png" style="width: 70%;" />-->
+			<img id="select-ticket-type-title" src="resource/img/lang-zh/select-ticket-type.png" style="width: 70%;" />
+			<!--<img src="resource/img/lang-zh/select-ticket-type-tip.png" style="width: 70%;" />-->
 			
 			
 			<div class="items" id="SingleTicket">
@@ -512,17 +512,17 @@
 		
 		<div id="select-ticket-single-detail" class="menuIndex">
 		
-			<img id="select-ticket-single-detail-title" src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/ticket-single-title.png" style="width: 60%;" />
+			<img id="select-ticket-single-detail-title" src="resource/img/lang-zh/ticket-single-title.png" style="width: 60%;" />
 			
 			<div class="items-static" style="text-align: center; padding: 20px;">
 				
-				<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/ticket-single-brex.png" style="width: 100%;" />
+				<img src="resource/img/lang-zh/ticket-single-brex.png" style="width: 100%;" />
 				
 				<hr>
 				<div id="ticket-single-panels"></div>
 				<hr>
 				
-				<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/ticket-explain.png" style="width: 100%;" />
+				<img src="resource/img/lang-zh/ticket-explain.png" style="width: 100%;" />
 				
 			</div>
 			<br><br><br><br><br><br><br><br><br>
@@ -531,18 +531,18 @@
 		
 		<div id="select-ticket-couple-detail" class="menuIndex">
 			
-			<img id="select-ticket-couple-detail-title" src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/ticket-couple-title.png" style="width: 60%;" />
+			<img id="select-ticket-couple-detail-title" src="resource/img/lang-zh/ticket-couple-title.png" style="width: 60%;" />
 			
 			<div class="items-static" style="text-align: center; padding: 20px;">
 				
-				<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/ticket-couple-brex.png" style="width: 100%;" />
+				<img src="resource/img/lang-zh/ticket-couple-brex.png" style="width: 100%;" />
 				
 				
 				<hr>
 				<div id="ticket-couple-panels"></div>
 				<hr>
 				
-				<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/ticket-explain.png" style="width: 100%;" />
+				<img src="resource/img/lang-zh/ticket-explain.png" style="width: 100%;" />
 				
 			</div>
 			<br><br><br><br><br><br><br><br><br>
@@ -552,16 +552,16 @@
 		
 		<div id="select-ticket-volunteer-detail" class="menuIndex">
 			
-			<img id="select-ticket-single-detail-title" src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/ticket-volunteer-title.png" style="width: 60%;" />
+			<img id="select-ticket-single-detail-title" src="resource/img/lang-zh/ticket-volunteer-title.png" style="width: 60%;" />
 			
 			<div class="items-static" style="text-align: center; padding: 20px;">
 				
-				<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/ticket-volunteer-brex.png" style="width: 100%;" />
+				<img src="resource/img/lang-zh/ticket-volunteer-brex.png" style="width: 100%;" />
 				
-				<img id="volunteer-price" src="https://bj.bcebos.com/v1/leafer/Starry/img/ticket-volunteer-price.png?rand=<?php echo time() ?>" style="width: 90%;" />
+				<img id="volunteer-price" src="resource/img/ticket-volunteer-price.png?rand=<?php echo time() ?>" style="width: 90%;" />
 				
-				<img src="https://bj.bcebos.com/v1/leafer/Starry/img/click-me-purchase.png" style="width: 30%; transform: translateY(-20px); animation: tap-me-2 .5s infinite;" />
-				<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/ticket-explain.png" style="width: 100%;" />
+				<img src="resource/img/click-me-purchase.png" style="width: 30%; transform: translateY(-20px); animation: tap-me-2 .5s infinite;" />
+				<img src="resource/img/lang-zh/ticket-explain.png" style="width: 100%;" />
 				
 			</div>
 			<br><br><br><br><br><br><br><br><br>
@@ -570,18 +570,18 @@
 		
 		<div id="select-ticket-academy-detail" class="menuIndex">
 			
-			<img id="select-ticket-academy-detail-title" src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/ticket-academy-title.png" style="width: 60%;" />
+			<img id="select-ticket-academy-detail-title" src="resource/img/lang-zh/ticket-academy-title.png" style="width: 60%;" />
 			
 			<div class="items-static" style="text-align: center; padding: 20px;">
 				
-				<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/ticket-academy-brex.png" style="width: 100%;" />
+				<img src="resource/img/lang-zh/ticket-academy-brex.png" style="width: 100%;" />
 				
 				<hr>
 				<div id="ticket-academy-panels"></div>
 				<div id="ticket-academy-panels"></div>
 				<hr>
 				
-				<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/ticket-explain.png" style="width: 100%;" />
+				<img src="resource/img/lang-zh/ticket-explain.png" style="width: 100%;" />
 				
 			</div>
 			<br><br><br><br><br><br><br><br><br>
@@ -590,7 +590,7 @@
 		
 		
 		<div id="select-ticket-bill" class="menuIndex">
-			<img id="select-ticket-bill-title" src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/bill-title.png" style="width: 70%;" />
+			<img id="select-ticket-bill-title" src="resource/img/lang-zh/bill-title.png" style="width: 70%;" />
 			<div style="margin: 0px 30px 120px 30px; background: #fff; min-height: 40%; position: relative; transition: all 1s; color: #000;" id="purchase-bill"></div>
 		</div>
 		
@@ -779,20 +779,20 @@
 		
 		<div id="select-check-my-ticket" class="menuIndex">
 			
-			<img id="select-check-my-ticket-title" src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/my-ticket-title.png" style="width: 70%;" />
-			<!--<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/select-ticket-type-tip.png" style="width: 70%;" />-->
+			<img id="select-check-my-ticket-title" src="resource/img/lang-zh/my-ticket-title.png" style="width: 70%;" />
+			<!--<img src="resource/img/lang-zh/select-ticket-type-tip.png" style="width: 70%;" />-->
 			
 			
 			<div class="items-static" id="my-ticket-frame" style="text-align: center; border: 0px; border-radius: 0px;">
-				<img src="https://bj.bcebos.com/v1/leafer/Starry/img/qr-loading.png" id="my-ticket-qr-code" style="width: 100%" />
+				<img src="resource/img/qr-loading.png" id="my-ticket-qr-code" style="width: 100%" />
 				
-				<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/please-show-qr-code.png" style="width: 90%" />
+				<img src="resource/img/lang-zh/please-show-qr-code.png" style="width: 90%" />
 				<div style="text-align: center; padding-top: 15px;">
 					<a id="refreshCode" class="layui-btn layui-btn-lg"><i class="fa fa-refresh"></i>&nbsp;&nbsp;<span data-lang="refresh-qr-code">刷新二维码</span></a>
 				</div>
 				
-				<img src="https://bj.bcebos.com/v1/leafer/Starry/img/ticket-top.png" style="left: 0px; width: 100%; background-repeat: repeat-x; top: 0%; transform: translateY(-100%); position: absolute;" />
-				<img src="https://bj.bcebos.com/v1/leafer/Starry/img/ticket-bottom.png" style="left: 0px; width: 100%; background-repeat: repeat-x; top: 100%; position: absolute;" />
+				<img src="resource/img/ticket-top.png" style="left: 0px; width: 100%; background-repeat: repeat-x; top: 0%; transform: translateY(-100%); position: absolute;" />
+				<img src="resource/img/ticket-bottom.png" style="left: 0px; width: 100%; background-repeat: repeat-x; top: 100%; position: absolute;" />
 			</div>
 			
 			
@@ -808,7 +808,7 @@
 			});
 			
 			function refreshQRCode(){
-				$('#my-ticket-qr-code').attr('src', 'https://bj.bcebos.com/v1/leafer/Starry/img/qr-loading.png');
+				$('#my-ticket-qr-code').attr('src', 'resource/img/qr-loading.png');
 				$('#my-ticket-qr-code').attr('src', 'pageComposition.php?func=checkMyTicket&rand=' + Math.random());
 			}
 			
@@ -835,7 +835,7 @@
 			
 			<div id="select-binding-couple" class="menuIndex">
 			
-				<img id="select-binding-couple-title" src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/binding-couple-title.png" style="width: 60%;" />
+				<img id="select-binding-couple-title" src="resource/img/lang-zh/binding-couple-title.png" style="width: 60%;" />
 				
 				
 				<div style="text-align: center; padding: 20px;" class="items-static">
@@ -872,7 +872,7 @@
 			
 			<div id='select-couple-voting-panel-frame'>
 				
-				<img id="best-couple-title" src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/best-couple-title.png" style="width: 70%;" />
+				<img id="best-couple-title" src="resource/img/lang-zh/best-couple-title.png" style="width: 70%;" />
 				<div id='select-couple-voting-panel'></div>
 			
 			</div>
@@ -893,7 +893,7 @@
 			
 			<div id='select-king-voting-panel-frame'>
 				
-				<img id="prom-king-title" src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/prom-king-title.png" style="width: 70%;" />
+				<img id="prom-king-title" src="resource/img/lang-zh/prom-king-title.png" style="width: 70%;" />
 				<div id='select-king-voting-panel'></div>
 			
 			</div>
@@ -914,7 +914,7 @@
 			
 			<div id='select-queen-voting-panel-frame'>
 				
-				<img id="prom-queen-title" src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/prom-queen-title.png" style="width: 70%;" />
+				<img id="prom-queen-title" src="resource/img/lang-zh/prom-queen-title.png" style="width: 70%;" />
 				<div id='select-queen-voting-panel'></div>
 			
 			</div>
@@ -947,7 +947,7 @@
 			
 			<div id="select-binding-phone" class="menuIndex">
 			
-				<img id="select-binding-phone-title" src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/binding-phone-title.png" style="width: 60%;" />
+				<img id="select-binding-phone-title" src="resource/img/lang-zh/binding-phone-title.png" style="width: 60%;" />
 				
 				<div class="items-static" style="text-align: center;">
 					<span data-lang="input-your-phone">请输入你的手机号</span>
@@ -1015,7 +1015,7 @@
 		<!--
 		<div id="select-plaid-shop" class="menuIndex" style="overflow-y: hidden;">
 			
-			<img id="select-gift-store-title" src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/plaid-shop-title.png" style="width: 60%;" />
+			<img id="select-gift-store-title" src="resource/img/lang-zh/plaid-shop-title.png" style="width: 60%;" />
 			
 			<div style="height: 100%;">
 				<div style="height: 65%; float: left;">
@@ -1181,8 +1181,8 @@
 		
 		?>
 		
-		<img id="single-price" src="https://bj.bcebos.com/v1/leafer/Starry/img/ticket-single-price.png?rand=<?php echo time() ?>" style="width: 90%;" />
-		<img src="https://bj.bcebos.com/v1/leafer/Starry/img/click-me-purchase.png" style="width: 30%; transform: translateY(-20px); animation: tap-me-2 .5s infinite;" />
+		<img id="single-price" src="resource/img/ticket-single-price.png?rand=<?php echo time() ?>" style="width: 90%;" />
+		<img src="resource/img/click-me-purchase.png" style="width: 30%; transform: translateY(-20px); animation: tap-me-2 .5s infinite;" />
 		
 		<script>
 			
@@ -1259,7 +1259,7 @@
 									<div class="avator" style="background-image: url('data:image/png;base64,<?php echo $ret[0]['photo'] ?>'); width: 90px; height: 90px;"></div>
 								</th>
 								<th style="width: 20%; transform: translateY(3px);">
-									<img src="https://bj.bcebos.com/v1/leafer/Starry/img/invitation-sign.png" style="width: 100%" />
+									<img src="resource/img/invitation-sign.png" style="width: 100%" />
 								</th>
 								<th style="width: 40%;">
 									<?php
@@ -1269,7 +1269,7 @@
 										<?php
 									}else{
 										?>
-										<div class="avator" style="background-image: url('https://bj.bcebos.com/v1/leafer/Starry/img/invitation-invitor-who.png'); width: 90px; height: 90px;"></div>
+										<div class="avator" style="background-image: url('resource/img/invitation-invitor-who.png'); width: 90px; height: 90px;"></div>
 										<?php
 									}
 									?>
@@ -1280,25 +1280,25 @@
 						<?php
 							if(!$invited && $grade == 12){
 						?>
-						<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/invitation-tip.png" style="width: 80%" />
-						<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/share-invitation-code-tip.png" style="width: 80%" />
+						<img src="resource/img/lang-zh/invitation-tip.png" style="width: 80%" />
+						<img src="resource/img/lang-zh/share-invitation-code-tip.png" style="width: 80%" />
 						
-						<div style="padding: 15px; text-align: center; background: url('https://bj.bcebos.com/v1/leafer/Starry/img/invitation-code-show.png') no-repeat center; background-size: cover; color: #fff;"><div style="text-align: center; letter-spacing:20px; font-weight: 600; transform: translateX(10px); font-size: 20px;"><?php echo $ret[0]['invitationCode'] ?></div></div>
+						<div style="padding: 15px; text-align: center; background: url('resource/img/invitation-code-show.png') no-repeat center; background-size: cover; color: #fff;"><div style="text-align: center; letter-spacing:20px; font-weight: 600; transform: translateX(10px); font-size: 20px;"><?php echo $ret[0]['invitationCode'] ?></div></div>
 						
 						
 						<?php
 							}else if($invited && $grade == 12){
 						?>
-						<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/invited-successfully-text.png" style="width: 80%" />
+						<img src="resource/img/lang-zh/invited-successfully-text.png" style="width: 80%" />
 						<div style="text-align: center; padding-top: 15px;">
 							<a id="startPurchasePanelFlip" class="layui-btn layui-btn-lg invitation-btn"><i class="fa fa-cart-plus"></i>&nbsp;&nbsp;<span data-lang="start-purchase">开始购票</span></a>
 						</div>
 						<?php
 							}else if(!$invited && $grade != 12){
 						?>
-							<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/invitation-input.png" style="width: 80%" />
-							<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/other-grade-input-invitation-code-tip.png" style="width: 80%" />
-							<div style="padding: 5px; text-align: center; background: url('https://bj.bcebos.com/v1/leafer/Starry/img/invitation-code-show.png') no-repeat center; background-size: cover; color: #fff;"><input id="invitation-code-input" class="layui-input" placeholder="" style="background: rgba(0, 0, 0, 0); border: 0px; text-align: center; color: #fff;"></input></div>
+							<img src="resource/img/lang-zh/invitation-input.png" style="width: 80%" />
+							<img src="resource/img/lang-zh/other-grade-input-invitation-code-tip.png" style="width: 80%" />
+							<div style="padding: 5px; text-align: center; background: url('resource/img/invitation-code-show.png') no-repeat center; background-size: cover; color: #fff;"><input id="invitation-code-input" class="layui-input" placeholder="" style="background: rgba(0, 0, 0, 0); border: 0px; text-align: center; color: #fff;"></input></div>
 							<div style="text-align: center; padding-top: 15px;">
 								<a id="useInvitationCode" class="layui-btn layui-btn-lg invitation-btn"><i class="fa fa-link"></i>&nbsp;&nbsp;<span data-lang="confirm">确定</span></a>
 							</div>
@@ -1349,8 +1349,8 @@
 						<?php
 							}else if($invited && $grade != 12){
 						?>
-							<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/invited-successfully-text.png" style="width: 80%" />
-							<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/wait-finish-payment-tip.png" style="width: 80%" />
+							<img src="resource/img/lang-zh/invited-successfully-text.png" style="width: 80%" />
+							<img src="resource/img/lang-zh/wait-finish-payment-tip.png" style="width: 80%" />
 						<?php
 							}
 						?>
@@ -1361,8 +1361,8 @@
 							if($invited && $grade == 12){
 						?>
 					<div id="ticket-couple-purchase-panel">
-						<img id="couple-price" src="https://bj.bcebos.com/v1/leafer/Starry/img/ticket-couple-price.png?rand=<?php echo time() ?>" style="width: 90%;" />
-						<img src="https://bj.bcebos.com/v1/leafer/Starry/img/click-me-purchase.png" style="width: 30%; transform: translateY(-20px); animation: tap-me-2 .5s infinite;" />
+						<img id="couple-price" src="resource/img/ticket-couple-price.png?rand=<?php echo time() ?>" style="width: 90%;" />
+						<img src="resource/img/click-me-purchase.png" style="width: 30%; transform: translateY(-20px); animation: tap-me-2 .5s infinite;" />
 					</div>
 					
 					<script>
@@ -1474,8 +1474,8 @@
 		?>
 		<hr>
 		
-		<img id="academy-price" src="https://bj.bcebos.com/v1/leafer/Starry/img/ticket-academy-price.png?rand=<?php echo time() ?>" style="width: 90%;" />
-		<img src="https://bj.bcebos.com/v1/leafer/Starry/img/click-me-purchase.png" style="width: 30%; transform: translateY(-20px); animation: tap-me-2 .5s infinite;" />
+		<img id="academy-price" src="resource/img/ticket-academy-price.png?rand=<?php echo time() ?>" style="width: 90%;" />
+		<img src="resource/img/click-me-purchase.png" style="width: 30%; transform: translateY(-20px); animation: tap-me-2 .5s infinite;" />
 		
 		<script>
 			
@@ -1595,7 +1595,7 @@
 									<div class="avator" style="background-image: url('data:image/png;base64,<?php echo $photo1 ?>'); width: 90px; height: 90px;"></div>
 								</th>
 								<th style="width: 17%; transform: translateY(3px);">
-									<img src="https://bj.bcebos.com/v1/leafer/Starry/img/couple-sign.png" style="width: 100%" />
+									<img src="resource/img/couple-sign.png" style="width: 100%" />
 								</th>
 								<th style="width: 40%;">
 									<?php
@@ -1606,7 +1606,7 @@
 										<?php
 									}else{
 										?>
-										<div class="avator" style="background-image: url('https://bj.bcebos.com/v1/leafer/Starry/img/invitation-invitor-who.png'); width: 90px; height: 90px;"></div>
+										<div class="avator" style="background-image: url('resource/img/invitation-invitor-who.png'); width: 90px; height: 90px;"></div>
 										<?php
 									}
 									?>
@@ -1617,14 +1617,14 @@
 						<?php
 							if(!$binded){
 						?>
-						<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/couple-code-show.png" style="width: 80%" />
-						<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/share-couple-code-tip.png" style="width: 80%" />
+						<img src="resource/img/lang-zh/couple-code-show.png" style="width: 80%" />
+						<img src="resource/img/lang-zh/share-couple-code-tip.png" style="width: 80%" />
 						
-						<div style="padding: 15px; text-align: center; background: url('https://bj.bcebos.com/v1/leafer/Starry/img/invitation-code-show.png') no-repeat center; background-size: cover; color: #fff;"><div style="text-align: center; letter-spacing:20px; font-weight: 600; transform: translateX(10px); font-size: 20px;"><?php echo $ret[0]['coupleCode'] ?></div></div>
+						<div style="padding: 15px; text-align: center; background: url('resource/img/invitation-code-show.png') no-repeat center; background-size: cover; color: #fff;"><div style="text-align: center; letter-spacing:20px; font-weight: 600; transform: translateX(10px); font-size: 20px;"><?php echo $ret[0]['coupleCode'] ?></div></div>
 						
-						<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/couple-input.png" style="width: 80%" />
-						<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/input-couple-code-tip.png" style="width: 80%" />
-						<div style="padding: 5px; text-align: center; background: url('https://bj.bcebos.com/v1/leafer/Starry/img/invitation-code-show.png') no-repeat center; background-size: cover; color: #fff;"><input id="couple-code-input" class="layui-input" placeholder="" style="background: rgba(0, 0, 0, 0); border: 0px; text-align: center; color: #fff;"></input></div>
+						<img src="resource/img/lang-zh/couple-input.png" style="width: 80%" />
+						<img src="resource/img/lang-zh/input-couple-code-tip.png" style="width: 80%" />
+						<div style="padding: 5px; text-align: center; background: url('resource/img/invitation-code-show.png') no-repeat center; background-size: cover; color: #fff;"><input id="couple-code-input" class="layui-input" placeholder="" style="background: rgba(0, 0, 0, 0); border: 0px; text-align: center; color: #fff;"></input></div>
 						<div style="text-align: center; padding-top: 15px;">
 							<a id="useCoupleCode" class="layui-btn layui-btn-lg invitation-btn"><i class="fa fa-link"></i>&nbsp;&nbsp;<span data-lang="confirm">确定</span></a>
 						</div>
@@ -1671,8 +1671,8 @@
 						<?php
 							}else if($binded){
 						?>
-						<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/couple-successfully-text.png" style="width: 80%" />
-						<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/participate-best-couple-voting.png" style="width: 80%" />
+						<img src="resource/img/lang-zh/couple-successfully-text.png" style="width: 80%" />
+						<img src="resource/img/lang-zh/participate-best-couple-voting.png" style="width: 80%" />
 						<?php
 							}
 						?>
@@ -1720,7 +1720,7 @@
 								</th>
 								
 								<th style="width: 17%; position: relative;">
-									<div id="btn_vote_q<?php echo $cid ?>" style="font-size: 16px; color: #fff; width: 70px; position: relative; background: url('https://bj.bcebos.com/v1/leafer/Starry/img/couple-sign.png') no-repeat center; background-size: cover; line-height: 61px;">
+									<div id="btn_vote_q<?php echo $cid ?>" style="font-size: 16px; color: #fff; width: 70px; position: relative; background: url('resource/img/couple-sign.png') no-repeat center; background-size: cover; line-height: 61px;">
 										<span id="votes-amount-q<?php echo $cid ?>">0</span>
 									</div>
 								</th>
@@ -1907,7 +1907,7 @@
 								</th>
 								
 								<th style="width: 17%; position: relative;">
-									<div id="btn_vote_k<?php echo $cid ?>" style="font-size: 16px; color: #fff; width: 70px; position: relative; background: url('https://bj.bcebos.com/v1/leafer/Starry/img/couple-sign.png') no-repeat center; background-size: cover; line-height: 61px;">
+									<div id="btn_vote_k<?php echo $cid ?>" style="font-size: 16px; color: #fff; width: 70px; position: relative; background: url('resource/img/couple-sign.png') no-repeat center; background-size: cover; line-height: 61px;">
 										<span id="votes-amount-k<?php echo $cid ?>">0</span>
 									</div>
 								</th>
@@ -2103,7 +2103,7 @@
 								</th>
 								
 								<th style="width: 17%; position: relative;">
-									<div id="btn_vote_<?php echo $cid ?>" style="font-size: 16px; color: #fff; width: 70px; position: relative; background: url('https://bj.bcebos.com/v1/leafer/Starry/img/couple-sign.png') no-repeat center; background-size: cover; line-height: 61px;">
+									<div id="btn_vote_<?php echo $cid ?>" style="font-size: 16px; color: #fff; width: 70px; position: relative; background: url('resource/img/couple-sign.png') no-repeat center; background-size: cover; line-height: 61px;">
 										<span id="votes-amount-<?php echo $cid ?>">0</span>
 									</div>
 								</th>
@@ -2318,14 +2318,14 @@
 		
 			<div id="wechatPayFrame"></div>
 			
-			<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/unpaid.png" style="right: -30px; top: -20px; width: 40%; position: absolute;" id="unpain-sign" />
+			<img src="resource/img/lang-zh/unpaid.png" style="right: -30px; top: -20px; width: 40%; position: absolute;" id="unpain-sign" />
 		
 		</div>
 		
 		<div id="finish-content">
 			<div style="padding: 20px 40px; color: #000;">
-				<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/finished-payment-tip.png" style="width: 80%" />
-				<img src="https://bj.bcebos.com/v1/leafer/Starry/img/lang-zh/paid.png" style="right: -30px; top: -20px; width: 40%; position: absolute;" id="paid-sign" />
+				<img src="resource/img/lang-zh/finished-payment-tip.png" style="width: 80%" />
+				<img src="resource/img/lang-zh/paid.png" style="right: -30px; top: -20px; width: 40%; position: absolute;" id="paid-sign" />
 			</div>
 			<div class="receipt__lines"></div>
 			<div style="text-align: center; padding: 30px;">
@@ -2335,7 +2335,7 @@
 		
 		<div style="height: 15px;"></div>
 		
-		<img src="https://bj.bcebos.com/v1/leafer/Starry/img/bill-bottom.png" style="left: 0px; width: 100%; background-repeat: repeat-x; top: 100%; position: absolute;" />
+		<img src="resource/img/bill-bottom.png" style="left: 0px; width: 100%; background-repeat: repeat-x; top: 100%; position: absolute;" />
 		
 		
 		<script>

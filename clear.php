@@ -22,16 +22,16 @@
 	$op = $_REQUEST['op'];
 	
 	if ($op = 'clear'){
-			SQL("UPDATE `graduation_prom_2018_voting_couple` SET `votes`= 0" );
-	
-			echo '{"code":1}';
+		SQL("UPDATE `graduation_prom_2018_voting_couple` SET `votes`= 0" );
 
-			SQL("UPDATE `graduation_prom_2018_voting_best` SET `votes`= 0" );
+		echo '{"code":1}';
 
-			echo '{"code":1}';
+		SQL("UPDATE `graduation_prom_2018_voting_best` SET `votes`= 0" );
 
-	}else if{
-			echo '{"code":-1}';
+		echo '{"code":1}';
+
+	}else{
+		echo '{"code":-1}';
 	}
 
 
