@@ -103,8 +103,6 @@
 	$_SESSION['un'] = $un;
 	
 	
-	//$namePic = text2Pic($firstName . ' ' . $lastName, 36, 'LightCond');
-	
 	
 	echo '{"code": 0, "message": "Welcome, ' . $lastName . ' ' . $firstName . '.", "firstName": "' . $firstName . '", "middleName": "' . $middleName . '", "lastName": "' . $lastName . '", "username": "' . $un . '", "grade": "' . $grade . '", "photo": "' . $photo . '"}';
 	
