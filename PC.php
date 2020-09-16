@@ -53,10 +53,9 @@
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <title>  </title>
   <link rel="stylesheet" href="resource/layui-v2.2.6/css/layui.css" media="all">
-  <link href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
-  <link rel="stylesheet" href="https://anijs.github.io/lib/anicollection/anicollection.css">
-  <!--<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>-->
-  <link href='resource/font.css?1.2' rel='stylesheet' type='text/css' />
+  <link rel="stylesheet" href="resource/font-awesome.css">
+  <link rel="stylesheet" href="resource/anicollection.css">
+  <link rel='stylesheet' href='resource/font.css?1.2' type='text/css' />
   
   <style>
   
