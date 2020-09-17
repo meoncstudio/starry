@@ -35,7 +35,7 @@ Username: `grade1101`
 Username: `grade1102`
 Password: Blank
 
-Also, if you are currently a student at Maple Leaf School, you can use your real PowerSchool account to sign in.
+~~Also, if you are currently a student at Maple Leaf School, you can use your real PowerSchool account to sign in.~~
 
 
 ## Notice
