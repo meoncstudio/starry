@@ -43,7 +43,7 @@ Password: Blank
 This project is for archiving, some sensitive program files, such as database connection code and student graduation pictures, were removed from this project.
 
 The following functions are no longer working (and won't be fixed):
- - First loggin for new users (from PowerSchool APIs authentication)
+ - First time loggin for new users (from PowerSchool APIs authentication)
  - Ticket payment
 
 
