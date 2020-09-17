@@ -28,12 +28,12 @@ Here are some testing accounts for reviewing the project.
 
 As a Grade 12 Students:
 Username: `grade12`
-Password: `yyf002`
+Password: Blank
 
-As a other grades Students:
+As an other grades Students:
 Username: `grade1101`
 Username: `grade1102`
-Password: `yyf002`
+Password: Blank
 
 Also, if you are currently a student at Maple Leaf School, you can use your real PowerSchool account to sign in.
 
@@ -41,6 +41,20 @@ Also, if you are currently a student at Maple Leaf School, you can use your real
 ## Notice
 
 This project is for archiving, some sensitive program files, such as database connection code and student graduation pictures, were removed from this project.
+
+The following functions are no longer working (and won't be fixed):
+ - First loggin for new users (from PowerSchool APIs authentication)
+ - Ticket payment
+
+
+## Fixing
+
+The project is too old to be functional... PowerSchool APIs are broken...
+
+Last time of fixing was 2020-09-17.
+ - Testing users are able to log in
+ - Scrollbar style fixing
+
 
 ## Website Contributors
 
