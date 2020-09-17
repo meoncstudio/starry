@@ -25,7 +25,7 @@
 <head>
 
   <link rel="stylesheet" href="resource/layui-v2.2.6/css/layui.css" media="all">
-  <link rel="stylesheet" href="resource/font-awesome.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel='stylesheet' href='resource/font.css?1.2' type='text/css' />
   <style>
   

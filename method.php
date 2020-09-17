@@ -1,7 +1,7 @@
 <?php
 
-//MySQL Database
-require_once 'database.php';
+	//MySQL Database
+	require_once 'database.php';
 
 	function SQL($sql){
 		

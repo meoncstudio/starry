@@ -5,7 +5,6 @@
 	require('database.php');
 	require('method.php');
 	require('ini.php');
-	require('PowerSchoolAPI/gp_access.php');
 	
 	
 	ini_set("error_reporting","E_ALL & ~E_NOTICE & ~E_WARNING");
@@ -14,6 +13,7 @@
 		echo '{"code": -999, "message": "login-function-disabled"}';
 		die();
 	}
+
 	
 	$un = $_REQUEST['un'];
 	
@@ -25,22 +25,23 @@
 	}
 	
 	
-	$reta = PowerSchoolAccess($un, $pw);
-	$ret = JSON_decode($reta, true);
-	
-	$_SESSION['ps'] = $ret;
-	
-	
-	if($ret['code'] != 0 && ($un != 'annyhaha' && $un != 'grade1101' && $un != 'grade1102' && $un != 'grade12')){
-		echo '{"code": -1, "message": "login-fail"}';
-		die();
-	}
-	
-	
 	$retu = SQL("SELECT * FROM `graduation_prom_2018_account` WHERE `username` = '$un'");
+
 	
 	if(empty($retu)){
-		
+
+		require('PowerSchoolAPI/gp_access.php');
+
+		$reta = PowerSchoolAccess($un, $pw);
+		$ret = JSON_decode($reta, true);
+
+		$_SESSION['ps'] = $ret;
+
+
+		if ($ret['code'] != 0 && ($un != 'annyhaha' && $un != 'grade1101' && $un != 'grade1102' && $un != 'grade12')) {
+			echo '{"code": -1, "message": "login-fail"}';
+			die();
+		}
 		
 		$username = $un;
 		$firstName = $ret['account']['information']['firstName'];
@@ -99,7 +100,8 @@
 		}
 		
 	}
-	
+
+
 	$_SESSION['un'] = $un;
 	
 	

@@ -8,7 +8,7 @@ ini_set('error_log', dirname(__FILE__) . '/error_log.txt');
 Session_Start();
 
 
-require('database.php');
+// require('database.php');
 require('method.php');
 require('ini.php');
 
@@ -55,7 +55,7 @@ setcookie('auth', '', time() - 3600);
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 	<title> </title>
 	<link rel="stylesheet" href="resource/layui-v2.2.6/css/layui.css" media="all">
-	<link rel='stylesheet' href="resource/font-awesome.css">
+	<link rel='stylesheet' href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="resource/anicollection.css">
 	<link rel='stylesheet' href='resource/font.css?1.2' type='text/css' />
 
@@ -176,7 +176,13 @@ setcookie('auth', '', time() - 3600);
 			padding: 20px 0px;
 			text-align: center;
 			padding-bottom: 50px;
+			scrollbar-width: none;
+			-ms-overflow-style: none;
 
+		}
+
+		.menuIndex::-webkit-scrollbar {
+			display: none;
 		}
 
 		.items {
@@ -496,9 +502,9 @@ setcookie('auth', '', time() - 3600);
 
 	<?php
 
-	$ret = SQL("SELECT * FROM `graduation_prom_2018_account` WHERE `username` = '$username'");
-	$identity = 'NONE';
-	@$identity = $ret[0]['identity'];
+	// $ret = SQL("SELECT * FROM `graduation_prom_2018_account` WHERE `username` = '$username'");
+	// $identity = 'NONE';
+	// @$identity = $ret[0]['identity'];
 
 
 	?>

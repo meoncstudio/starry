@@ -25,8 +25,7 @@
 	
 	
 	$ret = SQL("SELECT * FROM `graduation_prom_2018_account` WHERE `username` = '$username'");
-	
-	
+
 	
 	if(empty($ret)){
 		die();
@@ -39,7 +38,7 @@
 		die();
 	}
 	
-	
+
 	
 	if($func == 'mainMenu'){
 		
@@ -48,7 +47,7 @@
 		
 		
 		$identity = $ret[0]['identity'];
-			
+
 		?>
 			
 			<div id="select-entrance">
